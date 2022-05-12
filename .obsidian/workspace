@@ -9,10 +9,27 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Support topics/B-Shoval (2006).md",
+            "file": "-Concepts/15-minute city.md",
             "mode": "source",
             "source": false
           }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "1385f28a17923ee4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/15-minute city.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "1385f28a17923ee4",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Support topics/B-Shoval (2006).md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            }
+          ]
         }
       }
     ],
@@ -88,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Support topics/B-Shoval (2006).md",
+                "file": "-Concepts/15-minute city.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Support topics/B-Shoval (2006).md"
+                "file": "-Concepts/15-minute city.md"
               }
             }
           },
@@ -139,6 +156,7 @@
   },
   "active": "1385f28a17923ee4",
   "lastOpenFiles": [
+    "-Concepts/15-minute city.md",
     "Support topics/B-Shoval (2006).md",
     "-Concepts/urban tissue.md",
     "-Concepts/urban form.md",
@@ -147,7 +165,6 @@
     "-Concepts/mobility.md",
     "-Concepts/accessibility.md",
     "Traveling around the city/B-Marshall (2004).md",
-    "Traveling around the city/urban tissue.md",
-    "Classic Morphology/T-Space Sintax.md"
+    "Traveling around the city/urban tissue.md"
   ]
 }
