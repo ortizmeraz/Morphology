@@ -20,5 +20,7 @@
     "automobility"
   ],
   "promptDelete": false,
-  "lineWrap": true
+  "lineWrap": true,
+  "legacyEditor": false,
+  "livePreview": true
 }
