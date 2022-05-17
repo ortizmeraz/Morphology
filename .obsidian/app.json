@@ -22,5 +22,9 @@
   "promptDelete": false,
   "lineWrap": true,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-MX"
+  ]
 }

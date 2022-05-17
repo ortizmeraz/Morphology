@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1385f28a17923ee4",
+        "id": "7709ee6d87c60629",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "-Concepts/15-minute city.md",
+            "file": "_Reading list.md",
             "mode": "source",
             "source": false
           }
@@ -18,15 +18,39 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "1385f28a17923ee4",
+              "leaf": "7709ee6d87c60629",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/15-minute city.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
-              "leaf": "1385f28a17923ee4",
+              "leaf": "7709ee6d87c60629",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Support topics/B-Shoval (2006).md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "7709ee6d87c60629",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":76.3}"
+            },
+            {
+              "leaf": "7709ee6d87c60629",
+              "group": null,
+              "state": "{\"type\":\"graph\",\"state\":{}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7709ee6d87c60629",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "7709ee6d87c60629",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -49,6 +73,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -64,6 +92,10 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -72,6 +104,10 @@
             "state": {
               "type": "starred",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -83,6 +119,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ]
@@ -105,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Concepts/15-minute city.md",
+                "file": "_Reading list.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +154,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -122,8 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Concepts/15-minute city.md"
+                "file": "_Reading list.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -132,6 +180,10 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -144,27 +196,29 @@
                 "mode": "preview",
                 "source": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240,
-    "collapsed": true
+    "width": 240
   },
-  "active": "1385f28a17923ee4",
+  "active": "7709ee6d87c60629",
   "lastOpenFiles": [
+    "_Reading list.md",
+    "land use question.md",
+    "Research.md",
+    "Table of Articles.md",
+    "transit question.md",
+    "urban form question.md",
+    "Symbols.md",
+    "Committe.md",
     "-Concepts/15-minute city.md",
-    "Support topics/B-Shoval (2006).md",
-    "-Concepts/urban tissue.md",
-    "-Concepts/urban form.md",
-    "-Concepts/urban morphology.md",
-    "Traveling around the city/A-Verlinghieri & Schwanen (2020).md",
-    "-Concepts/mobility.md",
-    "-Concepts/accessibility.md",
-    "Traveling around the city/B-Marshall (2004).md",
-    "Traveling around the city/urban tissue.md"
+    "Support topics/B-Shoval (2006).md"
   ]
 }
