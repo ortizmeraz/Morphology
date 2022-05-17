@@ -3,11 +3,13 @@
 
 ## To store
 
-
+- [ ] 
 ## Reading now
-
-##  Read now
-
+- [ ] [[A-Allen & Farber (2020)]]
+- [ ]  [[B-Walker (2012)]]
+- [ ] 
+- [ ] 
 ## Read soon
-
+- [ ] 
 ## Read at some point
+- [ ]  t
