@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Transit and Land-use/A-Allen & Farber (2020).md",
+            "file": "Transit and Land-use/README.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         },
         "pane-relief:history-v1": {
@@ -20,8 +20,14 @@
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/A-Allen & Farber (2020).md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":16},\"to\":{\"line\":36,\"ch\":8}},\"scroll\":31.581487341772153}"
+              "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
@@ -127,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transit and Land-use/A-Allen & Farber (2020).md",
+                "file": "Transit and Land-use/README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transit and Land-use/A-Allen & Farber (2020).md"
+                "file": "Transit and Land-use/README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -176,7 +182,7 @@
               "state": {
                 "file": "Table of Articles.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             },
             "pane-relief:history-v1": {
@@ -192,7 +198,7 @@
               "state": {
                 "file": "_Reading list.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "pane-relief:history-v1": {
@@ -259,6 +265,7 @@
   },
   "active": "66b12aef8bcbee50",
   "lastOpenFiles": [
+    "Transit and Land-use/README.md",
     "Transit and Land-use/A-Allen & Farber (2020).md",
     "-Concepts/public transit.md",
     "Transit and Land-use/Public transit.md",
@@ -267,7 +274,6 @@
     "_Reading list.md",
     "land use question.md",
     "Research.md",
-    "Table of Articles.md",
-    "transit question.md"
+    "Table of Articles.md"
   ]
 }
