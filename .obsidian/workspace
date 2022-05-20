@@ -9,25 +9,37 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Transit and Land-use/B-Litman(2008).md",
-            "mode": "preview",
+            "file": "Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+            "mode": "source",
             "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban planning.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/system thinking.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Litman(2008).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
+              "eState": "{\"scroll\":23.78980891719745}"
             },
             {
               "leaf": "66b12aef8bcbee50",
@@ -124,18 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/A-Vaughan(2015).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/B- Vaughan (2015).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
             }
           ]
         }
@@ -213,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 443
+    "width": 384
   },
   "right": {
     "id": "8d284f3db761463d",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transit and Land-use/B-Litman(2008).md",
+                "file": "Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Transit and Land-use/B-Litman(2008).md"
+                "file": "Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md"
               }
             },
             "pane-relief:history-v1": {
@@ -361,6 +361,8 @@
   },
   "active": "66b12aef8bcbee50",
   "lastOpenFiles": [
+    "Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+    "-Concepts/system thinking.md",
     "Transit and Land-use/B-Litman(2008).md",
     "-Concepts/urban planning.md",
     "Transit and Land-use/B-Walker (2012).md",
@@ -368,8 +370,6 @@
     "-Concepts/transit.md",
     "README.md",
     "Classic Morphology/B-Krop(2017).md",
-    "Classic Morphology/A-Griffiths(2015).md",
-    "-Concepts/high street.md",
-    "Classic Morphology/A-Vaughan(2015).md"
+    "Classic Morphology/A-Griffiths(2015).md"
   ]
 }
