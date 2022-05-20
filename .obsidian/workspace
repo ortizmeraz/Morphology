@@ -9,42 +9,78 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source",
+            "file": "Transit and Land-use/B-Litman(2008).md",
+            "mode": "preview",
             "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban planning.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Litman(2008).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban planning.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/README.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":8},\"to\":{\"line\":17,\"ch\":8}},\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Systems Thinking and Object Ortiented Analysis/B-Shoval (2006).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/transit.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/B-Krop(2017).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
@@ -56,25 +92,49 @@
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":22},\"to\":{\"line\":1,\"ch\":22}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/A-Allen & Farber (2020).md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/A-Griffiths(2015).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/public transit.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/A-Vaughan(2015).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":13},\"to\":{\"line\":27,\"ch\":13}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/A-Griffiths(2015).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":12},\"to\":{\"line\":27,\"ch\":12}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/A-Vaughan(2015).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Classic Morphology/B- Vaughan (2015).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
             }
           ]
@@ -169,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Transit and Land-use/B-Litman(2008).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Transit and Land-use/B-Litman(2008).md"
               }
             },
             "pane-relief:history-v1": {
@@ -301,15 +361,15 @@
   },
   "active": "66b12aef8bcbee50",
   "lastOpenFiles": [
-    "README.md",
-    "land use question.md",
-    "Transit and Land-use/README.md",
-    "Transit and Land-use/A-Allen & Farber (2020).md",
-    "-Concepts/public transit.md",
-    "Transit and Land-use/Public transit.md",
-    "Traveling around the city/A-Mokhtarian & Chen (2004).md",
+    "Transit and Land-use/B-Litman(2008).md",
+    "-Concepts/urban planning.md",
     "Transit and Land-use/B-Walker (2012).md",
-    "_Reading list.md",
-    "Research.md"
+    "Systems Thinking and Object Ortiented Analysis/B-Shoval (2006).md",
+    "-Concepts/transit.md",
+    "README.md",
+    "Classic Morphology/B-Krop(2017).md",
+    "Classic Morphology/A-Griffiths(2015).md",
+    "-Concepts/high street.md",
+    "Classic Morphology/A-Vaughan(2015).md"
   ]
 }

@@ -46,7 +46,7 @@ This does not necessarily mean that we cannot 'plan' or model. It does, however,
 The notions of complexity and chaos have acted as a stimulus to the resurgence in systems-based understandings and models of places. Using methods such as cellular automata, researchers have begun to model the dynamics and interactions of cities and the consider the impact of policy interventions, including planning (Byrne, 1998; Batty, 2005).
 
 ## Related concepts
-[[Urban planning]]
+[[urban planning]]
 
 ## Uses
 - [ ] [[]]

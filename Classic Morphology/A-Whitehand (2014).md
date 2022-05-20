@@ -21,7 +21,7 @@ Whitehand, J. W. R. et al. (2014) ‘The Typological Process and the Morphologic
 ### Concepts
 - [[evolution]]
 - [[change]]
-- [[]]
+- [[Conzen]]
 - [[]]
 ## Tags
 #Theoretical #Whitehand #Comparison #Definitions #Conzen
