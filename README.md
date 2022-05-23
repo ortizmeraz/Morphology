@@ -3,11 +3,10 @@
 
 
 ### Reading Now To store
+- [ ]  [[B-Walker (2012)]]
 
-- [ ] [[B-Levinson & Krizek (2018)]]
 ## Reading now
 - [ ] [[A-Allen & Farber (2020)]]
-- [ ]  [[B-Walker (2012)]]
 - [ ] [[A-Vaughan(2015)]]
 - [ ] [[A-Griffiths(2015)]]
 - [ ] 
@@ -51,4 +50,6 @@
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] 
+
+## DONE
+- [x] [[B-Levinson & Krizek (2018)]]
