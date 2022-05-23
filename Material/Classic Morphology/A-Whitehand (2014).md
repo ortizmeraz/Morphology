@@ -14,7 +14,7 @@ status:			Extracted
 Whitehand, J. W. R. et al. (2014) ‘The Typological Process and the Morphological Period: A Cross-Cultural Assessment’, Environment and Planning B: Planning and Design TA  - TT  -, 41(3), pp. 512–533. doi: 10.1068/b39097 LK  - https://concordiauniversity.on.worldcat.org/oclc/5865998481.
 ```
 ### Author's keywords
-- [[building type]]s
+- [[type|building types]]
 - [[historical change]]
 - [[cross-cultural comparisons]]
 - [[data problems]]
@@ -22,7 +22,7 @@ Whitehand, J. W. R. et al. (2014) ‘The Typological Process and the Morphologic
 - [[evolution]]
 - [[change]]
 - [[Conzen]]
-- [[]]
+- [[Material/Classic Morphology/urban morphology]]
 ## Tags
 #Theoretical #Whitehand #Comparison #Definitions #Conzen
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Table of Articles.md",
+            "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
             "mode": "source",
             "source": true
           }
@@ -20,122 +20,122 @@
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table of Articles.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":36}},\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":6.673912948685257}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table test.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":26.21528287541946}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Vaughan(2015).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-McAslan(2017).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Rokseth (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":23.00781130097176}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/system thinking.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban morphology.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/spatial form.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban morphology.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}},\"scroll\":0}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban typologies.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban planning.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban morphology.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2009) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":11.197101449275362}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":47},\"to\":{\"line\":22,\"ch\":4}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2009) , Development.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":32},\"to\":{\"line\":26,\"ch\":32}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":6},\"to\":{\"line\":24,\"ch\":6}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2009) , Development.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":17},\"to\":{\"line\":22,\"ch\":17}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/urban morphology.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":15},\"to\":{\"line\":20,\"ch\":15}},\"scroll\":28.74646035021342}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "README",
+                "query": "\"public space\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Articles.md",
+                "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Articles.md"
+                "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md"
               }
             },
             "pane-relief:history-v1": {
@@ -309,7 +309,7 @@
                 {
                   "leaf": "7709ee6d87c60629",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
@@ -356,19 +356,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659
+    "width": 659,
+    "collapsed": true
   },
   "active": "66b12aef8bcbee50",
   "lastOpenFiles": [
-    "Table of Articles.md",
+    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
     "README.md",
-    "land use question.md",
-    "_Reading list.md",
-    "-Concepts/urban morphology.md",
-    "-Concepts/spatial form.md",
-    "-Concepts/urban typologies.md",
-    "-Concepts/urban planning.md",
-    "Material/Classic Morphology/A-Araldi & Fusco (2019).md",
-    "Material/Classic Morphology/A-Berghauser Pont (2009) , Development.md"
+    "Research.md",
+    "Symbols.md",
+    "Table test.md",
+    "Material/Classic Morphology/A-Gu (2019).md",
+    "Material/Classic Morphology/B-Krop(2017).md",
+    "Material/Classic Morphology/A-Whitehand (2014).md",
+    "Material/Classic Morphology/A-Vaughan(2015).md",
+    "Material/Classic Morphology/A-McAslan(2017).md"
   ]
 }

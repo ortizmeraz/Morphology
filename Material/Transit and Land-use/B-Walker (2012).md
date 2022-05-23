@@ -1,8 +1,7 @@
 ---
-Title:Human transit : how clearer thinking about public transit can enrich our communities and our lives. 
-
+Title:  Human transit - how clearer thinking about public transit can enrich our communities and our lives. 
 Author:	Walker, J. 
-Year:2012
+Year: 2012
 Added in: 2022-05-17
 tag: Book_
 fullref: "Walker, J. (2012). Human transit : how clearer thinking about public transit can enrich our communities and our lives (NV-1 onl). Island Press. https://doi.org/10.5822/978-1-61091-174-0 LK - https://concordiauniversity.on.worldcat.org/oclc/777548498"

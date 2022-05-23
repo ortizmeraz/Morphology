@@ -13,7 +13,7 @@
   "trashOption": "local",
   "newFileLocation": "current",
   "attachmentFolderPath": "_attachments",
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "spellcheck": true,
   "spellcheckDictionary": [
     "Redensification",
@@ -26,5 +26,6 @@
   "spellcheckLanguages": [
     "en-US",
     "es-MX"
-  ]
+  ],
+  "strictLineBreaks": true
 }

@@ -20,9 +20,11 @@ Newman, P., Kosonen, L., & Kenworthy, J. (2016). Theory of urban fabrics: Planni
 - [[]]
 ### Concepts
 - [[Traveling around the city/urban tissue]]
-- [[]]
-- [[]]
-- [[]]
+- [[theory of urban fabrics]]
+- [[walkability]]
+- [[-Concepts/urban morphology]]
+-  [[]]
+-  [[]]
 ## Tags
 #tag
 

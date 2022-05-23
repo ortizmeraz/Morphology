@@ -1,4 +1,4 @@
-# Title
+# Public space
 ## Definition
 
 ## Related concepts
