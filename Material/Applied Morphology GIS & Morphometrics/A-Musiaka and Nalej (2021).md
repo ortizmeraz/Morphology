@@ -17,7 +17,7 @@ Musiaka, Ł. and Nalej, M. (2021) ‘Application of GIS Tools in the Measurement
 - [[gis tools]]
 - [[fishnet]]
 - [[grid]]
-- [[urban morphology]]
+- [[-Concepts/urban morphology]]
 - 
 
 ### Concepts

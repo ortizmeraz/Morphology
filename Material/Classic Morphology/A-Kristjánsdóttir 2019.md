@@ -15,7 +15,7 @@ status:			Extracted
 Kristjánsdóttir, S. (2019). Roots of Urban Morphology. Iconarp International J. of Architecture and Planning TA  - TT  -, 7(Special Issue “Urban Morphology”), 15–36. https://doi.org/10.15320/ICONARP.2019.79 LK  - https://concordiauniversity.on.worldcat.org/oclc/8465486654
 ```
 ### Author's keywords
-- [[Urban morphology]]
+- [[-Concepts/urban morphology]]
 - [[geographical perspective]]
 - [[architectural perspective]]
 - [[Caniggia]]
@@ -35,7 +35,7 @@ This paper provides a comprehensive review of the research field of urban morpho
 
 ## Bullet points
 1. Page 2
-2. [[urban morphology|Urban morphological]] researchers are concerned with the form and structure of an urban landscape.
+2. [[-Concepts/urban morphology|Urban morphological]] researchers are concerned with the form and structure of an urban landscape.
 3. The word ‘morphology’ was first used in bioscience to describe form and structure, but now is increasingly being used in geography, architecture, geology, philology and other disciplines.
 4. The roots of urban morphology lie in geography in Britain and Germany, and architecture in Italy and France.
 5. In fact, urban morphology can be viewed as part of a much wider movement that arose as a reaction against Modernism in architecture and urban planning during the period 1959 to 1961.

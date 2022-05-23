@@ -9,7 +9,7 @@ status:			Need to extract
 
 ---
 
-# Tittle 
+# Development of urban types based on network centrality, built density and their impact on pedestrian movement 
 ```ad-quote
 Berghauser Pont, M., Stavroulaki, G. and Marcus, L. (2019) ‘Development of urban types based on network centrality, built density and their impact on pedestrian movement’, Environment and Planning B: Urban Analytics and City Science, 46(8), pp. 1549–1564. doi: 10.1177/2399808319852632.
 ```
@@ -24,6 +24,7 @@ Berghauser Pont, M., Stavroulaki, G. and Marcus, L. (2019) ‘Development of urb
 - [[built density]]
 - [[network centrality]]
 - [[land division]]
+- [[Concepts/urban morphology|Urban Morphology]]
 ## Tags
 #Methodologial #Theoretical #Berghauser_Pont
 ## Abstract

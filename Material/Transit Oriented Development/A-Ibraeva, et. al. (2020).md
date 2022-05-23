@@ -21,7 +21,7 @@ Ibraeva, A., Correia, G. H. de A., Silva, C., & Antunes, A. P. (2020). Transit-o
 ### Concepts
 - [[transit oriented development]]
 - [[literature review]]
-- [[]]
+- [[transit]]
 - [[]]
 ## Tags
 #tag

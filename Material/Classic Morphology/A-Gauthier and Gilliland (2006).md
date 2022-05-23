@@ -14,7 +14,7 @@ status:			Extracted
 Gauthier, P. and Gilliland, J. (2006) ‘Mapping urban morphology: a classification scheme for interpreting contributions to the study of urban form’, Urban Morphology. International Seminar on Urban Form, 10(1), p. 41.
 ```
 ### Author's keywords
-- [[urban morphology]]
+- [[-Concepts/urban morphology]]
 - [[built environment]]
 - [[epistemology]]
 - [[morphological theories]]

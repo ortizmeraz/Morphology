@@ -10,7 +10,7 @@ status:			Need to extract
 
 ---
 
-# Tittle 
+# Planning transport for social inclusion: An accessibility-activity participation approach 
 ```ad-quote
 Allen, J., & Farber, S. (2020). Planning transport for social inclusion: An accessibility-activity participation approach. _Transportation Research Part D_, _78_. https://doi.org/10.1016/j.trd.2019.102212 LK - https://concordiauniversity.on.worldcat.org/oclc/8520184052
 ```

@@ -7,7 +7,7 @@ tag:			Book_
 fullref: 		"Litman, T. (2008). Evaluating accessibility for transportation planning. In Victoria Transport Policy Institute, Victoria, Canada."
 status:			Extracted
 ---
-# Tittle 
+# Evaluating accessibility for transportation planning. 
 ```ad-quote
 Litman, T. (2008). Evaluating accessibility for transportation planning. In Victoria Transport Policy Institute, Victoria, Canada.
 ```

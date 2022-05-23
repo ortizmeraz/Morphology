@@ -23,7 +23,7 @@ Garikapati, V. M., Pendyala, R. M., Morris, E. A., Mokhtarian, P. L., & McDonald
 - [[longitudinal analysis]]
 - [[ lifecycle stages]]
 ### Concepts
-- [[geerational change]]
+- [[generational change]]
 - [[]]
 - [[]]
 - [[]]

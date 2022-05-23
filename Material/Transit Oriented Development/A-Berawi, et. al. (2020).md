@@ -21,10 +21,10 @@ Berawi, M. A., Saroji, G., Iskandar, F. A., Ibrahim, B. E., Miraj, P., & Sari, M
 - [[optimization]]
 - [[mixed-use]]
 ### Concepts
+- [[transit oriented development]]
 - [[]]
 - [[]]
-- [[]]
-- [[]]
+- []
 ## Tags
 #TOD
 

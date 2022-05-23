@@ -1,4 +1,4 @@
-# Urban Morphology
+# Urban morphology
 ## Definition
 
 ## Related concepts
