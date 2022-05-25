@@ -18,7 +18,7 @@ Litman, T. (2008). Evaluating accessibility for transportation planning. In Vict
 [[urban planning]]
 ## Tags
 #tag 
-#2022-05-20
+
 
 ## Summary
 ```ad-info

@@ -3,6 +3,7 @@
 
 ## To store
 
+- [ ] [[@Walker2012]]
 - [ ] 
 ## Reading now
 - [ ] [[A-Allen & Farber (2020)]]

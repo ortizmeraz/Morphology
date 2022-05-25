@@ -3,17 +3,19 @@
 
 
 ### Reading Now To store
-- [ ]  [[B-Walker (2012)]]
+- [ ] [[A-Allen & Farber (2020)]]
+- [ ] 
 
 ## Reading now
-- [ ] [[A-Allen & Farber (2020)]]
-- [ ] [[A-Vaughan(2015)]]
+- [ ]  [[B-Walker (2012)]]
+- [ ] [[A-Filion & Kramer (2012)]]
 - [ ] [[A-Griffiths(2015)]]
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
 ### Read soon
+- [ ] [[A-Vaughan(2015)]]
 - [ ] [[A-Fleischmann (2019)]]
 - [ ] [[A-D’Acci (2019)]]
 - [ ] [[B-Krop(2017)]]

@@ -15,7 +15,7 @@ Kropf, K. (2017). The handbook of urban morphology (EBOOK). Wiley.
 [[]]
 ## Tags
 #tag 
-#2022-05-20
+
 
 ## Summary
 ```ad-info

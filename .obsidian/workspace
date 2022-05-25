@@ -9,19 +9,109 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
             "mode": "source",
             "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 0,
+          "pos": 1,
           "stack": [
             {
               "leaf": "66b12aef8bcbee50",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/place.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5652174011786191}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Templates/A-article.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":16},\"to\":{\"line\":9,\"ch\":16}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":22.58427449015828}"
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":260},\"to\":{\"line\":14,\"ch\":260}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@filionTransformativeMetropolitanDevelopment2012.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@Walker2012.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"berg.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":3},\"to\":{\"line\":30,\"ch\":3}},\"scroll\":0}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "66b12aef8bcbee50",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "66b12aef8bcbee50",
@@ -46,96 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table test.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":26.21528287541946}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Vaughan(2015).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-McAslan(2017).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Rokseth (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":23.00781130097176}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/system thinking.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"public space\"",
+                "query": "tag:#2022-05-20",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md"
               }
             },
             "pane-relief:history-v1": {
@@ -361,15 +361,15 @@
   },
   "active": "66b12aef8bcbee50",
   "lastOpenFiles": [
+    "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
+    "-Concepts/place.md",
+    "References/@zhangNetworkCriticalityNodeplacedesign2019.md",
+    "_Templates/A-article.md",
     "README.md",
-    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
-    "Research.md",
-    "Symbols.md",
-    "Table test.md",
-    "Material/Classic Morphology/A-Gu (2019).md",
-    "Material/Classic Morphology/B-Krop(2017).md",
-    "Material/Classic Morphology/A-Whitehand (2014).md",
-    "Material/Classic Morphology/A-Vaughan(2015).md",
-    "Material/Classic Morphology/A-McAslan(2017).md"
+    "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
+    "References/@filionTransformativeMetropolitanDevelopment2012.md",
+    "Material/Transit and Land-use/A-Allen & Farber (2020).md",
+    "Material/Classic Morphology/A-Griffiths(2015).md",
+    "Material/Classic Morphology/A-Vaughan(2015).md"
   ]
 }
