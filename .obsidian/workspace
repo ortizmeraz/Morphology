@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "66b12aef8bcbee50",
+        "id": "94adc1ffc19e5ed5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
+            "file": "Material/Transit and Land-use/A-Kramer (2018).md",
             "mode": "source",
             "source": true
           }
@@ -18,123 +18,21 @@
           "pos": 1,
           "stack": [
             {
-              "leaf": "66b12aef8bcbee50",
+              "leaf": "94adc1ffc19e5ed5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/place.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@kramerUnaffordableCityHousing2018.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Kramer (2018).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "66b12aef8bcbee50",
+              "leaf": "94adc1ffc19e5ed5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.5652174011786191}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Templates/A-article.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":16},\"to\":{\"line\":9,\"ch\":16}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":260},\"to\":{\"line\":14,\"ch\":260}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@filionTransformativeMetropolitanDevelopment2012.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@Walker2012.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"berg.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":3},\"to\":{\"line\":30,\"ch\":3}},\"scroll\":0}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":219,\"ch\":302},\"to\":{\"line\":219,\"ch\":302}},\"scroll\":204.44659786108065}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":36},\"to\":{\"line\":6,\"ch\":36}},\"scroll\":0}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":6.673912948685257}"
-            },
-            {
-              "leaf": "66b12aef8bcbee50",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -169,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2022-05-20",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -229,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
+                "file": "Material/Transit and Land-use/A-Kramer (2018).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Node Place/A-Zhang, Marshall & Manley (2019).md"
+                "file": "Material/Transit and Land-use/A-Kramer (2018).md"
               }
             },
             "pane-relief:history-v1": {
@@ -287,13 +185,13 @@
             }
           },
           {
-            "id": "7709ee6d87c60629",
+            "id": "056a7599968ad0e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Reading list.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               }
             },
@@ -301,49 +199,13 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "7709ee6d87c60629",
+                  "leaf": "056a7599968ad0e5",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{\"scroll\":76.3}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_Reading list.md\",\"mode\":\"source\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "7709ee6d87c60629",
+                  "leaf": "056a7599968ad0e5",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -356,20 +218,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659,
-    "collapsed": true
+    "width": 659
   },
-  "active": "66b12aef8bcbee50",
+  "active": "94adc1ffc19e5ed5",
   "lastOpenFiles": [
-    "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
-    "-Concepts/place.md",
-    "References/@zhangNetworkCriticalityNodeplacedesign2019.md",
-    "_Templates/A-article.md",
+    "Material/Transit and Land-use/A-Kramer (2018).md",
+    "References/@kramerUnaffordableCityHousing2018.md",
     "README.md",
-    "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
-    "References/@filionTransformativeMetropolitanDevelopment2012.md",
-    "Material/Transit and Land-use/A-Allen & Farber (2020).md",
-    "Material/Classic Morphology/A-Griffiths(2015).md",
-    "Material/Classic Morphology/A-Vaughan(2015).md"
+    "Material/Transit and Land-use/A-Handy (2002).md",
+    "-Concepts/FSI.md",
+    "-Concepts/GSI.md",
+    "-Concepts/externalist.md",
+    "-Concepts/Conzen.md",
+    "-Concepts/compact city.md",
+    "-Concepts/cognitive.md"
   ]
 }

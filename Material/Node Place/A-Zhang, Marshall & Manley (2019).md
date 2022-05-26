@@ -1,5 +1,5 @@
 ---
-Title: Network criticality and the node-place-design model: Classifying metro station areas in Greater London
+Title: Network criticality and the node-place-design model; Classifying metro station areas in Greater London
 Author: Yuerong Zhang, Stephen Marshall, Ed Manley
 Year: 2019
 Added in:		2022-05-25
@@ -7,7 +7,6 @@ tag:			Article_
 group:			group
 fullref: 		"Zhang, Y., Marshall, S., & Manley, E. (2019). Network criticality and the node-place-design model: Classifying metro station areas in Greater London. _Journal of Transport Geography_, _79_, 102485. [https://doi.org/10.1016/j.jtrangeo.2019.102485](https://doi.org/10.1016/j.jtrangeo.2019.102485)"
 status:			Need to extract
-Zotero:         [[@zhangNetworkCriticalityNodeplacedesign2019]]
 ---
 
 # Tittle 
@@ -28,7 +27,6 @@ Zhang, Y., Marshall, S., & Manley, E. (2019). Network criticality and the node-p
 - [[]]
 ## Tags
 #Methodologial 
-
 
 ```ad-abstract
 Centralisation of activities and developments around metro station areas is a key transit-oriented development (TOD) policy to encourage more public transport travel through providing maximum access to passengers, thereby enhancing economic efficiency, health, well-being and social inclusion. The node-place-design model is an analytical approach, which investigates the interaction between land use, transportation and the walking friendliness around station areas. Nevertheless, current research focuses on the role station areas plays at the local scale, and little consideration is given to the strategic network (system) level. In this research, we combine a strategic network indicator (criticality) with the node-place-design model to gain deeper insights into London metro station areas in terms of their transit-oriented-development at both local and system levels. Our research has three principal findings: first, most of station areas in Greater London show balanced situations between transport and land use development, except for some stations with a non-walking friendly environment such as Victoria station. Second, the two-tier approach finds that the system criticality of each station area can vary substantially even within the same cluster grouped by the original node-place-design model. Therefore, identifying station groups with relatively high network criticality and relatively low node-place-design score is of potential value. The promising transport connection and less-developed conditions of those station areas could help policymakers locate an intensification-diversification TOD group. Conversely, locations with high nodeplace-design values but low criticality could point to stations suitable for network expansion (new lines or interchanges). Third, the result reconfirms the value of introducing the third dimension – design – into the TOD evaluation of stations at the local scale. The relatively low correlation between node and design value is consistent with previous findings that a transport service-intensive and functionally diverse metro station area does not necessarily produce an accessible friendly walking environment. Overall, the paper provides a platform for further studies integrating strategic network and node-place-design attributes.

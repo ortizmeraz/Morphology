@@ -7,7 +7,6 @@ tag:			Article_
 group:			group
 fullref: 		""
 status:			Need to extract
-Zotero:         
 ---
 
 # Tittle 

@@ -1,5 +1,5 @@
 ---
-Title: 			Planning transport for social inclusion: An accessibility-activity participation approach.
+Title: 			Planning transport for social inclusion; An accessibility-activity participation approach.
 Author:			Allen, J., & Farber, S.
 Year:			year
 Added in:		2022-05-17
