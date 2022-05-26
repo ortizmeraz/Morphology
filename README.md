@@ -3,7 +3,8 @@
 
 
 ### Reading Now To store
-- [ ] [[A-Allen & Farber (2020)]]
+- [x] [[A-Allen & Farber (2020)]]
+- [ ] Vuchic 1988
 - [ ] 
 
 ## Reading now
@@ -36,9 +37,8 @@
 - [ ] 
 ## Craig Recommendations 
 - [ ] Cerbero 1998
-- [ ] Curtis and Schummer 2016
-- [ ] Walker 2012
-- [ ] Allen farber 2020
+- [x] VUCHIC
+- [x] Allen farber 2020
 - [x] Handy 2020                               - Is accessibility an idea whose time has finally come?-
 
 

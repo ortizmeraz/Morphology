@@ -9,19 +9,43 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Transit and Land-use/A-Kramer (2018).md",
+            "file": "README.md",
             "mode": "source",
             "source": true
           }
         },
         "pane-relief:history-v1": {
-          "pos": 1,
+          "pos": 0,
           "stack": [
             {
               "leaf": "94adc1ffc19e5ed5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@kramerUnaffordableCityHousing2018.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Vuchic, (2017)..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@filionTransformativeMetropolitanDevelopment2012.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Allen & Farber (2020).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "94adc1ffc19e5ed5",
@@ -127,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit and Land-use/A-Kramer (2018).md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit and Land-use/A-Kramer (2018).md"
+                "file": "README.md"
               }
             },
             "pane-relief:history-v1": {
@@ -222,15 +246,15 @@
   },
   "active": "94adc1ffc19e5ed5",
   "lastOpenFiles": [
+    "README.md",
+    "Material/Transit and Land-use/A-Vuchic, (2017)..md",
+    "References/@vuchicCityTransportationRelationship2017.md",
+    "References/@filionTransformativeMetropolitanDevelopment2012.md",
+    "Material/Transit and Land-use/A-Allen & Farber (2020).md",
     "Material/Transit and Land-use/A-Kramer (2018).md",
     "References/@kramerUnaffordableCityHousing2018.md",
-    "README.md",
     "Material/Transit and Land-use/A-Handy (2002).md",
     "-Concepts/FSI.md",
-    "-Concepts/GSI.md",
-    "-Concepts/externalist.md",
-    "-Concepts/Conzen.md",
-    "-Concepts/compact city.md",
-    "-Concepts/cognitive.md"
+    "-Concepts/GSI.md"
   ]
 }
