@@ -8,7 +8,7 @@
 - [ ] 
 
 ## Reading now
-- [ ]  [[B-Walker (2012)]]
+- [x]  [[B-Walker (2012)]]
 - [ ] [[A-Filion & Kramer (2012)]]
 - [ ] [[A-Griffiths(2015)]]
 - [ ] 
