@@ -26,6 +26,18 @@
             {
               "leaf": "94adc1ffc19e5ed5",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Allen & Farber (2020).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":481},\"to\":{\"line\":59,\"ch\":481}},\"scroll\":51.76687102371313}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":379,\"ch\":316},\"to\":{\"line\":379,\"ch\":316}},\"scroll\":359.67594929732707}"
             },
@@ -302,11 +314,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659
+    "width": 659,
+    "collapsed": true
   },
   "active": "94adc1ffc19e5ed5",
   "lastOpenFiles": [
     "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
+    "Material/Transit and Land-use/A-Allen & Farber (2020).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
     "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
     "Material/Alternative Smart Cities/A-Whitehand (2012).md",
@@ -314,7 +328,6 @@
     "Material/Transit and Land-use/B-Litman(2008).md",
     "Untitled.md",
     "README.md",
-    "Material/Transit and Land-use/A-Vuchic, (2017)..md",
-    "References/@vuchicCityTransportationRelationship2017.md"
+    "Material/Transit and Land-use/A-Vuchic, (2017)..md"
   ]
 }

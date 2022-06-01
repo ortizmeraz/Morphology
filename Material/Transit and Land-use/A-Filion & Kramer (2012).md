@@ -7,10 +7,9 @@ tag:			Article_
 group:			group
 fullref: 		"Filion, P., & Kramer, A. (2012). Transformative Metropolitan Development Models in Large Canadian Urban Areas: The Predominance of Nodes. _Urban Studies_, _49_(10), 2237–2264. [https://doi.org/10.1177/0042098011423565](https://doi.org/10.1177/0042098011423565)"
 status:			Need to extract
-Zotero: [[@filionTransformativeMetropolitanDevelopment2012]]
 ---
 
-# Tittle 
+# Transformative Metropolitan Development Models in Large Canadian Urban Areas: The Predominance of Nodes 
 ```ad-quote
 Filion, P., & Kramer, A. (2012). Transformative Metropolitan Development Models in Large Canadian Urban Areas: The Predominance of Nodes. _Urban Studies_, _49_(10), 2237–2264. [https://doi.org/10.1177/0042098011423565](https://doi.org/10.1177/0042098011423565)
 ```
