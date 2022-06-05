@@ -18,6 +18,8 @@
 ### Read soon
 - [ ] [[A-Vaughan(2015)]]
 - [ ] [[A-Fleischmann (2019)]]
+- [ ] [[b-Portugali  (2016)]]
+- Thinking in systems
 - [ ] [[A-D’Acci (2019)]]
 - [ ] [[B-Krop(2017)]]
 - [ ] [[A-Lotfi & Koohsari (2009)]]
