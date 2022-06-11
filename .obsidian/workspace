@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,56 @@
             {
               "leaf": "94adc1ffc19e5ed5",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":15},\"to\":{\"line\":7,\"ch\":15}}}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Planning/b-Portugali  (2016).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Griffiths(2015).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Filion & Kramer (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "94adc1ffc19e5ed5",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "94adc1ffc19e5ed5",
@@ -88,54 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":337,\"ch\":243},\"to\":{\"line\":337,\"ch\":243}},\"scroll\":323.52870330189035}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Vuchic, (2017)..md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"References/@filionTransformativeMetropolitanDevelopment2012.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Allen & Farber (2020).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Kramer (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "94adc1ffc19e5ed5",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md"
               }
             },
             "pane-relief:history-v1": {
@@ -293,7 +293,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             },
@@ -332,20 +332,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 659,
-    "collapsed": true
+    "width": 659
   },
   "active": "94adc1ffc19e5ed5",
   "lastOpenFiles": [
+    "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
     "README.md",
+    "Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md",
     "Material/Planning/b-Portugali  (2016).md",
+    "Material/Classic Morphology/A-Griffiths(2015).md",
     "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
     "Material/Transit and Land-use/A-Allen & Farber (2020).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
     "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
-    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
-    "Material/Alternative Smart Cities/A-Lars & Koch (2016).md",
-    "Material/Transit and Land-use/B-Litman(2008).md",
-    "Untitled.md"
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md"
   ]
 }
