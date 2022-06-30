@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md",
+            "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
             "mode": "source",
             "source": true
           }
@@ -20,8 +20,32 @@
             {
               "leaf": "ec7ded80f34907ed",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":514},\"to\":{\"line\":29,\"ch\":514}},\"scroll\":0}"
+            },
+            {
+              "leaf": "ec7ded80f34907ed",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":8.857142857142858}"
+            },
+            {
+              "leaf": "ec7ded80f34907ed",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":42.23015873015873}"
+            },
+            {
+              "leaf": "ec7ded80f34907ed",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":21},\"to\":{\"line\":31,\"ch\":21}}}"
+            },
+            {
+              "leaf": "ec7ded80f34907ed",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "ec7ded80f34907ed",
@@ -112,30 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":145},\"to\":{\"line\":12,\"ch\":145}}}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Dibble",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md",
+                "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md"
+                "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md"
               }
             },
             "pane-relief:history-v1": {
@@ -332,19 +332,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258
+    "width": 464
   },
   "active": "ec7ded80f34907ed",
   "lastOpenFiles": [
-    "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md",
+    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "README.md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md",
     "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md",
     "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md",
     "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
-    "Material/Transit and Land-use/B-Litman(2008).md",
-    "Material/Transit and Land-use/B-Walker (2012).md",
-    "Material/Classic Morphology/A-Araldi & Fusco (2019).md"
+    "Material/Transit and Land-use/B-Litman(2008).md"
   ]
 }
