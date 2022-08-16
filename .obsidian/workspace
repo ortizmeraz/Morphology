@@ -4,140 +4,181 @@
     "type": "split",
     "children": [
       {
-        "id": "ec7ded80f34907ed",
+        "id": "d05194c3111de8ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
+            "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
             "mode": "source",
             "source": true
           }
         },
+        "group": "18f59fd58429c7fe",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":514},\"to\":{\"line\":29,\"ch\":514}},\"scroll\":0}"
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Hillier, W. (2016).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":31.616054697391746}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":8.857142857142858}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":42.23015873015873}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":21},\"to\":{\"line\":31,\"ch\":21}}}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":17},\"to\":{\"line\":13,\"ch\":17}},\"scroll\":0}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":291},\"to\":{\"line\":43,\"ch\":291}},\"scroll\":20.272727272727273}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Cerver et.al. (2017).md\",\"mode\":\"source\",\"source\":true}}",
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space syntax.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":29.83500717360115}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":18},\"to\":{\"line\":23,\"ch\":18}}}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/type.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/sidewalks.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/system thinking.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/spatial form.md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{}"
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space matrix.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
-              "leaf": "ec7ded80f34907ed",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":145},\"to\":{\"line\":12,\"ch\":145}}}"
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/sidewalks.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space matrix.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/place index.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/normative.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/node place.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/Network density (Space Matrix).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/neighborhood.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/MXI.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/mobility.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/internal.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/human scale.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/externalist.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "18f59fd58429c7fe",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/Conzen.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
+        }
+      },
+      {
+        "id": "33fe77217c994a68",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "18f59fd58429c7fe",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": []
         }
       }
     ],
@@ -169,7 +210,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "C",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -209,7 +250,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
+                "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +292,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md"
+                "file": "Material/Classic Morphology/A-Hillier, W. (2016).md"
               }
             },
             "pane-relief:history-v1": {
@@ -332,19 +374,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464
+    "width": 464,
+    "collapsed": true
   },
-  "active": "ec7ded80f34907ed",
+  "active": "d57a7946b623cca5",
   "lastOpenFiles": [
-    "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md",
-    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
-    "README.md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md",
-    "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
-    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
-    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
-    "Material/Transit and Land-use/B-Litman(2008).md"
+    "-Concepts/space syntax.md",
+    "-Concepts/type.md",
+    "-Concepts/sidewalks.md",
+    "-Concepts/system thinking.md",
+    "-Concepts/spatial form.md",
+    "-Concepts/space matrix.md",
+    "-Concepts/place index.md",
+    "-Concepts/normative.md",
+    "-Concepts/node place.md",
+    "-Concepts/Network density (Space Matrix).md"
   ]
 }

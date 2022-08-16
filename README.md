@@ -30,7 +30,7 @@
 - [ ] [[A-Fleischmann (2019)]]
 - [ ] [[b-Portugali  (2016)]]
 - Thinking in systems
-- [ ] [[B-Krop(2017)]]
+- [x] [[B-Krop(2017)]]
 - [ ] [[]]
 - [ ] [[]]
 - [ ] [[]]
