@@ -25,6 +25,7 @@ Whitehand, J. W. R. et al. (2014) ‘The Typological Process and the Morphologic
 - [[Material/Classic Morphology/urban morphology]]
 ## Tags
 #Theoretical #Whitehand #Comparison #Definitions #Conzen
+#EXAM_1 
 
 ## Abstract
 ```ad-abstract
@@ -51,13 +52,13 @@ The concepts ‘typological process’ and ‘morphological period’ have recei
 	2. It is this sequence whereby types that predominate in a new period of urban development are conceived out of the predominant type or types in an earlier period, or diffused from areas in which new types have already become established, that is frequently referred to by architects of the Caniggian school as a ‘typological process’ (processo tipologico) (Caniggia and Maffei, 2001, pages 54–55).
 
 9. In practice, most research directly on the typological process, even that relating to periods for which the necessary data are available, has been impressionistic.
-	1. Furthermore, studies of related topics (for example, morphological periods) have been more concerned with the spatial manifestation of types on the ground than with the origin of those types.
+	1. Furthermore, studies of related topics (for example, [[morphological periods]]) have been more concerned with the spatial manifestation of types on the ground than with the origin of those types.
 10. However, if the process of morphological change is to be fully understood more needs to be known about how types arise.
 	1. Rather than focusing on the mature types (for example, mature building types) that have come to be recognized as characteristic of particular morphological periods, more attention needs to be given to the change from one type to another.
 11. In making this change of focus from the morphological period to the changes that are the prelude to such a period, obtaining the requisite data is a prime consideration.
 12. Considering the evidence from these two contrasting areas, what can be distilled about the typological process and the morphological period? First, differences between buildings constructed at different times can be recognized in broad terms.
 13. Conclusion, use this to describe the
-	1. Morphological periods, in contrast, are much more readily accessible to empirical study, being based on a comparison between what is dominant within them and what had been dominant in the preceding period.
+	1. [[Morphological periods]], in contrast, are much more readily accessible to empirical study, being based on a comparison between what is dominant within them and what had been dominant in the preceding period.
 	2. … there is a major difference between our ability on the one hand to recognize different types and on the other to grasp the process by which one type is succeeded by another. The search for the latter entails speculations that generally go beyond the limits of the available data.
 
 14. Empirical substantiation, in the sense of demonstrating direct causality, is impeded in most areas by the limited quantities of the requisite data and the sheer practical difficulties of assembling those data where they exist. That there is generally a recognizable developmental sequence from one morphological period to the next is evident in our study areas.

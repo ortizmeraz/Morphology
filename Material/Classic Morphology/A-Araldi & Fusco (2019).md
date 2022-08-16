@@ -21,11 +21,12 @@ Araldi, A. and Fusco, G. (2019) ‘From the street to the metropolitan region: P
 - [[multiple fabric assessment]]
 ### Concepts
 - [[-Concepts/urban morphology|Urban Morphology]]
-- [[]]
-- [[]]
+- [[pedestrian planning]]
+- [[walkability]]
 - [[]]
 ## Tags
 #Methodologial #Fusco 
+#EXAM_1
 ## Abstract
 ```ad-abstract
 The urban fabric is a fundamental small-scale component of urban form. Its quantitative analysi has so far been limited either in its geographical extent or in the diversity of components analysed. Moreover, the planning approach has traditionally privileged an aerial perspective. A new approach integrating the pedestrian point of view is proposed. Spatial analysis procedures are implemented with a twofold objective: identifying **[[urban fabric]]s** and studying their spatial organization within a large **metropolitan area**. The former is achieved through **multiple fabric assessment**, a three-step protocol using a network-based partition of urban space: (i) a set of skeletal streetscape indicators is implemented on each spatial unit, considering different constituents of the urban fabric; (ii) spatial patterns on the street network are identified, applying geostatistical analysis to each indicator; and (iii) spatial patterns with Bayesian clustering are recombined, allowing the identification and characterization of urban fabric types and subspaces within the city. This methodology is tested on the French Riviera metropolitan area, where nine families of urban fabric are identified. Disentangling the spatial organization of urban fabrics represents the second objective of this paper: the geographical distribution of urban fabrics is investigated, applying mathematical morphology and variography while considering networkconstrained topological contiguities.
@@ -37,15 +38,15 @@ The urban fabric is a fundamental small-scale component of urban form. Its quant
 3. ... streetscapes are not the only feature of urban form, and their morphological characteristics need to be put into the urban context where they are measured.
 4. Urban morphologists proposed to study urban contexts through the analysis of the urban fabric, which is defined as a specific combination of local patterns made up of buildings, streets and plots and considered as the original and unique outcome of conscious and unconscious design of the physical city (Caniggia and Maffei, 1979).
 5. In turn, different types of urban fabric must be understood in the context of morphological regions (Conzen, 1960), revealing the multi-scale structuring of urban form.
-6. In contrast, configurational approaches like Space Syntax (SSx) capture the pedestrian perspective, but do not focus on the urban fabric as defined by urban morphologists.
+6. In contrast, configurational approaches like [[space syntax|Space Syntax]] (SSx) capture the pedestrian perspective, but do not focus on the urban fabric as defined by urban morphologists.
 7. Innovative approaches from other disciplines could bring several solutions that would allow traditional urban fabric analysis to fully integrate the pedestrian perspective.
 8. ...geographers have already adapted several geostatistical approaches to network-constrained space, being aware of its importance for the study of human activity in the city (Okabe and Sugihara, 2012).
 9. The main goal of our paper is to present a new computer-aided methodology for the study of urban fabric,
 10. Page 3
-11. The concept of the morphological region is also proposed to describe urban sectors characterized by consistent extents of a single urban fabric and to produce more global schemes of the morphological organization of the city.
+11. The concept of the [[urban tissue|morphological region]] is also proposed to describe urban sectors **characterized by consistent extents of a single urban fabric and to produce more global schemes of the morphological organization of the city.**
 12. ..., the approach of classical urban morphologists to study the urban fabric left little space for the pedestrian perception of the physical city.
 13. Lynch’s (1960) seminal work established little link between the perception of cityscapes and the analysis of the urban fabric.
-14. SSx (Hillier, 1996; Hillier and Hanson, 1984) proposed the most innovative reconceptualization of urban form analysis by focusing on the open space available for pedestrians. The urban open space is partitioned into convex polygons approximated with visual axial lines.
+14.  [[space syntax|SSx]] (Hillier, 1996; Hillier and Hanson, 1984) proposed the most innovative **reconceptualization of urban form analysis by focusing on the open space available for pedestrians**. The urban open space is partitioned into convex polygons approximated with visual axial lines.
 15. Topological measurements of centrality are carried out on the resulting graph, which is a dual representation of the axial line network. The use of visual lines and the natural movement theory might be considered as an integration of the pedestrian perspective applied to the analysis of urban form, and in SSx this is even truer than for MCA.
 16. Page 4
 17. Following the founding concept of urban fabric, the reviewed methods aim to describe in different ways the arrangements of buildings, plots and streets.
@@ -53,10 +54,10 @@ The urban fabric is a fundamental small-scale component of urban form. Its quant
 19. Typo-morphologies of city blocks represent the main outcomes of these methodologies. Another important phase in geoprocessing of the urban fabric is the computer-aided algorithms used to identify different empirical typologies of city blocks: spacematrix diagrams (Berghauser-Pont and Haupt, 2010), k-means (Bernabe´ et al., 2013; Gil et al., 2012; Vialard, 2013)
 20. Page 5
 21. the skeletal streetscape, defined as the main geometric characteristics of buildings and trees along the streets (size, spacing, frequency, etc.). The skeletal streetscape provides the structural support onto which the skin, made of design details, is fitted, completing the description of the streetscape.
-22. In conclusion, streetscape analysis, whether limited to the skeletal structure or extending to include other constituents, focuses on the street–building interface and ignores both the content of buildings and the urban fabric as a whole.
+22. In conclusion, **streetscape analysis**, whether limited to the skeletal structure or extending to include other constituents, **focuses on the street–building interface and ignores both the content of buildings and the urban fabric as a whole**.
 23. Our first need is to define a new spatial unit putting the street at the centre of the analysis Urban form indicators should be conceived and redefined from this perspective.
 24. ... other important aspects of the urban fabric, well-identified by classical urban morphology schools,
-25. Finally, the urban fabric will be defined as a morphologically attentive urban streetscape.
+25. Finally, t**he urban fabric will be defined as a morphologically attentive urban streetscape**.
 26. ... the pedestrian perspective to define the urban fabric should not simply be reduced to the capacities of human vision.
 27. Each indicator, describing a geometrical aspect of urban form within a spatial unit, should be evaluated considering its spatial distribution and variation.
 28. Geostatistical analysis on street networks might then provide methodological solutions for the study of spatial heterogeneity/homogeneity of perceivable morphological characteristics and serve as the input for subsequent clustering models.

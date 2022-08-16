@@ -26,6 +26,7 @@ Gauthier, P. and Gilliland, J. (2006) ‘Mapping urban morphology: a classificat
 - [[]]
 ## Tags
 #Methodologial #MetaStudy #Gauthier
+#EXAM_1 
 
 ## Abstract
 ```ad-abstract
@@ -39,6 +40,7 @@ Urban morphology is a thriving field of enquiry involving researchers from a wid
 2. …one of the most urgent requirements in the field of urban morphology is the elucidation of its philosophical or epistemological foundations (Conzen, 1998; Gerosa, 1999; Whitehand, 1999).
 
 3. … we propose a system to identify and interpret, or ‘map’, individual contributions to the study of urban form according to their respective theoretical or epistemological perspectives. In an effort to ‘improve intelligibility’ in urban morphology, we offer a two-tiered examination of prevailing approaches in the field.
+4. ![[Pasted image 20220816115715.png]]
 
 4. First, there are studies that are aimed at providing explanations or developing explanatory frameworks or both (i.e. **[[cognitive]]** contributions);
 

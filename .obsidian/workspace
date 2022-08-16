@@ -6,179 +6,165 @@
       {
         "id": "d05194c3111de8ae",
         "type": "leaf",
+        "dimension": 38.05899143672693,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
+            "file": "Material/Classic Morphology/A-Whitehand (2014).md",
             "mode": "source",
             "source": true
           }
         },
-        "group": "18f59fd58429c7fe",
+        "group": "4880b341b629fdd0",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.085}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":14.04391891891892}"
+            },
+            {
+              "leaf": "d05194c3111de8ae",
+              "group": "4880b341b629fdd0",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Hillier, W. (2016).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":31.616054697391746}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space syntax.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/type.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Hillier, W. (2016).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":8},\"to\":{\"line\":27,\"ch\":8}},\"scroll\":83.64321608040201}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/sidewalks.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":6.607843137254902}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/system thinking.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":6.3559322033898304}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/spatial form.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gauthier and Gilliland (2006).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":39},\"to\":{\"line\":42,\"ch\":39}},\"scroll\":36.98975}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space matrix.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":8},\"to\":{\"line\":26,\"ch\":8}},\"scroll\":5.970588235294118}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/sidewalks.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":505},\"to\":{\"line\":57,\"ch\":505}},\"scroll\":12.581560283687944}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/space matrix.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Caniggia & Maffei (2017)..md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/place index.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":10.21671826625387}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/normative.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/node place.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Conzen (1960).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/Network density (Space Matrix).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":74.61566484517304}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/neighborhood.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":8},\"to\":{\"line\":29,\"ch\":8}},\"scroll\":13.333386390768005}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/MXI.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/mobility.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A- Araldi & Fusco (2019b).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.764705882352942}"
             },
             {
               "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/internal.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/human scale.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/externalist.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "18f59fd58429c7fe",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/Conzen.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.28133704735376}"
             }
           ]
         }
       },
       {
-        "id": "33fe77217c994a68",
+        "id": "f41b27c62323d091",
         "type": "leaf",
+        "dimension": 61.94100856327307,
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Material/Classic Morphology/A-Whitehand (2014).md",
+            "mode": "preview",
+            "source": true
           }
         },
-        "group": "18f59fd58429c7fe",
+        "group": "4880b341b629fdd0",
         "pane-relief:history-v1": {
           "pos": 0,
-          "stack": []
+          "stack": [
+            {
+              "leaf": "f41b27c62323d091",
+              "group": "4880b341b629fdd0",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":37.63636363636363}"
+            }
+          ]
         }
       }
     ],
@@ -210,7 +196,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "C",
+                "query": "Fleischmann",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -250,8 +236,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Hillier, W. (2016).md",
+                "file": "Material/Classic Morphology/A-Whitehand (2014).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -292,7 +277,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Hillier, W. (2016).md"
+                "file": "Material/Classic Morphology/A-Whitehand (2014).md"
               }
             },
             "pane-relief:history-v1": {
@@ -345,8 +330,8 @@
                 {
                   "leaf": "056a7599968ad0e5",
                   "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
                 },
                 {
                   "leaf": "056a7599968ad0e5",
@@ -355,18 +340,6 @@
                   "eState": "{}"
                 }
               ]
-            }
-          },
-          {
-            "id": "d7a33f1a3cebb995",
-            "type": "leaf",
-            "state": {
-              "type": "tlfItemView",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
             }
           }
         ],
@@ -377,17 +350,17 @@
     "width": 464,
     "collapsed": true
   },
-  "active": "d57a7946b623cca5",
+  "active": "d05194c3111de8ae",
   "lastOpenFiles": [
-    "-Concepts/space syntax.md",
-    "-Concepts/type.md",
-    "-Concepts/sidewalks.md",
-    "-Concepts/system thinking.md",
-    "-Concepts/spatial form.md",
-    "-Concepts/space matrix.md",
-    "-Concepts/place index.md",
-    "-Concepts/normative.md",
-    "-Concepts/node place.md",
-    "-Concepts/Network density (Space Matrix).md"
+    "Material/Classic Morphology/B-Krop(2017).md",
+    "Material/Classic Morphology/A-Kristjánsdóttir 2019.md",
+    "Material/Classic Morphology/A-Hillier, W. (2016).md",
+    "Material/Classic Morphology/B Hiller (2007).md",
+    "Material/Classic Morphology/A-Gu (2019).md",
+    "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
+    "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md",
+    "Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md"
   ]
 }
