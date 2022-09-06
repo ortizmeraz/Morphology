@@ -24,7 +24,7 @@ Bertolini, L. (1996). Nodes and places: Complexities of railway station redevelo
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-abstract
 An interpretation of the redevelopment prospects of railway stations and their surroundings is proposed. Station locations are at the same time nodes and places, affected by both global and local dynamics. Their potential roles within increased transport integration and emerging multi-centered urban regions provide the foundations for their transformation. However, the task is a complex one, as a discussion of the issues connected with the intensification of flows, the accumulation of activities, and the tangle of actors which characterize these projects shows. More attention must be paid to the integration of the node and place dimensions and of diverging redevelopment strategies.

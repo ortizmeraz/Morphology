@@ -1,35 +1,34 @@
 ---
-Title: 			Accessibility to transit, by transit, and mode share: Application of a logistic model with spatial filters.
-Author:			Moniruzzaman, M., & Páez, A
-Year:			2012
-Added in:		2022-06-30
+Title: 			Accessibility and Transit-Oriented Development in European metropolitan areas
+Author:			Papa, E., & Bertolini
+Year:			2015
+Added in:		2022-09-05
 tag:			Article_
 group:			group
-fullref: 		"Moniruzzaman, M., & Páez, A. (2012). Accessibility to transit, by transit, and mode share: Application of a logistic model with spatial filters. _Journal of Transport Geography_, _24_, 198–205. [https://doi.org/10.1016/j.jtrangeo.2012.02.006](https://doi.org/10.1016/j.jtrangeo.2012.02.006)"
+fullref: 		"Papa, E., & Bertolini, L. (2015). Accessibility and Transit-Oriented Development in European metropolitan areas. _Journal of Transport Geography TA  - TT  -_, _47_, 70–83. [https://doi.org/10.1016/j.jtrangeo.2015.07.003 LK  - https://concordiauniversity.on.worldcat.org/oclc/5903904896](https://doi.org/10.1016/j.jtrangeo.2015.07.003 LK  - https://concordiauniversity.on.worldcat.org/oclc/5903904896)"
 status:			Need to extract
 ---
 
 # Tittle 
 ```ad-quote
-Moniruzzaman, M., & Páez, A. (2012). Accessibility to transit, by transit, and mode share: Application of a logistic model with spatial filters. _Journal of Transport Geography_, _24_, 198–205. [https://doi.org/10.1016/j.jtrangeo.2012.02.006](https://doi.org/10.1016/j.jtrangeo.2012.02.006)
+Papa, E., & Bertolini, L. (2015). Accessibility and Transit-Oriented Development in European metropolitan areas. _Journal of Transport Geography TA  - TT  -_, _47_, 70–83. [https://doi.org/10.1016/j.jtrangeo.2015.07.003 LK  - https://concordiauniversity.on.worldcat.org/oclc/5903904896](https://doi.org/10.1016/j.jtrangeo.2015.07.003 LK  - https://concordiauniversity.on.worldcat.org/oclc/5903904896)
 ```
 ### Author's keywords
-- [[transit|Transit systems]]
-- [[accessibility]]
-- [[Mode share]]
-- [[Logistic regression]]
-- [[Over-dispersion]]
-- [[Autocorrelation]]
+- [[transit oriented development|Transit-Oriented Development]]
+- [[Accessibility]]
+- [[]]
+- [[]]
 ### Concepts
 - [[]]
 - [[]]
 - [[]]
 - [[]]
 ## Tags
-#EXAM_3 
+#tag
 
 ```ad-abstract
-Accessibility to transit facilities is a factor thought to influence the level of usage of services. Past examinations of accessibility to transit have considered the built environment and levels of service of transit. In contrast, accessibility by transit has received more limited attention in transit mode share analysis. The objective of this paper is to investigate the implications of accessibility to transit and by transit for mode shares in the city of Hamilton, Canada. We model transit shares by means of a logistic regression that takes into account over-dispersion and spatial autocorrelation. The results of the final model indicate that accessibility by transit is a significant predictor of modal share in our case study. Technically, our analysis clearly illustrates that ignoring over-dispersion and autocorrelation can result in misleading inference and erroneous policy prescriptions.
+This study investigates how urban form is related to accessibility. In particular, it explores the relationship between Transit-Oriented Development (TOD) and rail-based accessibility in a metropolitan area. The following overarching questions are addressed: Does a TOD-informed urban spatial structure correlate with high rail based accessibility? Which features of TOD are correlated to rail-based accessibility? These questions are answered through a comparative analysis of six metropolitan areas in Europe. The ‘‘TOD degree’’, operationalized as the extent to which urban development is concentrated along rail corridors and stations, is correlated with a cumulative opportunity measure of rail-based accessibility to jobs and inhabitants.
+The comparison demonstrates that rail-based accessibility is higher in urban areas where inhabitants and jobs are more concentrated around the railway network and in lesser measure in urban areas with higher values of network connectivity. No correlation is found between rail-based accessibility and average densities of inhabitants and jobs.
 ```
 
 ## Bullet points
@@ -59,4 +58,4 @@ Accessibility to transit facilities is a factor thought to influence the level o
 24. Modeling aggregated transit shares is an important element to plan services. A focus of previous research has been on accessibility to transit as an explicative factor of mode shares. In this paper, we argued that accessibility by transit is a factor in need of more attention.
 25. This study illustrates the use of eigenvector-based spatial filtering to deal with autocorrelation in non-normal models, and demonstrates the effect of autocorrelation and over-dispersion in the logistic model.
 26. In our case study, the spatial filter was composed of a linear combination of 14 eigenvectors to capture moderate-to-strong positive spatial autocorrelation. With regards to the variable ‘accessibility by transit’, our finding is that it contributes positively to usage of transit.
-27. The model also confirms previous findings regarding mode share of transit. Dwelling density is important for increasing the mode share of transit. This is the only built environment variable which is significant after applying the spatial filtering approach. Frequency of transit service also can help to increase transit mode share, when considering the overall levels of service in neighboring DAs.
+27. The model also confirms previous findings regarding mode share of transit. Dwelling density is important for increasing the mode share of transit. This is the only built environment variable which is significant after applying the spatial filtering approach. Frequency of transit service also can help to increase transit mode share, when considering the overall levels of service in neighboring DAs

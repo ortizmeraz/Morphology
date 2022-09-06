@@ -24,7 +24,8 @@ Filion, P., & Kramer, A. (2012). Transformative Metropolitan Development Models 
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_2 
+
 
 ```ad-abstract
 The paper centres on the content of metropolitan-scale plans of the six largest Canadian urban regions. Plans in all these regions promote intensification and alternatives to automobile use, and thus adhere to smart growth and sustainability principles. In all cases save one, reliance on nodal development is the preferred manner of achieving intensification and ensuring its co-ordination with public transit services. Meanwhile, however, results point to differences in the stage of development of metropolitan planning strategies. The paper concludes by reflecting on the wide adoption of the nodal model in metropolitan plans. It interprets this popularity as the outcome of the ability of nodes to achieve intensification and reduced car reliance objectives, while conforming to prevailing planning and institutional capacity. The effectiveness of the nodal approach and other broad metropolitan planning concepts rests in their capacity to procure a metropolitan structure for the other scales at which urban planning is practised.

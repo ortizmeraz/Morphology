@@ -24,7 +24,7 @@ Rokseth, L. S., Manum, B. and Nordstrom, T. (2019) ‘Assessing cities: Applying
 - [[gis]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-abstract
            

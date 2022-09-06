@@ -27,6 +27,7 @@ Musiaka, Ł. and Nalej, M. (2021) ‘Application of GIS Tools in the Measurement
 - [[]]
 ## Tags
 #tag
+#EXAM_1 
 
 ```ad-abstract
 The principal aim of this paper is to present the capabilities of newly developed GIS tools for measurement analysis of urban spatial layouts, using the square grid method. The study of urban morphology and metrology is a multistage process, which involves the metrological analysis of town plans. The main research step is the determination of measurement modules of town layouts, using the square grid. By using GIS software, the authors developed a new tool, named HGIS Tools, which allow to create any number of modular grids with the selected cell size that corresponds to urban units of distance and surface area. When investigating a large number of towns and cities, this offers a significant improvement of the research procedure. The paper presents a test of the tool’s potential on the example of regular medieval towns from the area of the former Teutonic Order state (currently the territory of Poland), diversified in terms of size, genesis and morphometrics. The obtained results confirmed that HGIS Tools allowed to determine the hypothetical measurement module of the layout of the cities studied. The results were consistent with the analyses of other authors carried out with the traditional grid-square methods. The test of the HGIS Tools showed their significant potential in conducting morphometric analyses of spatial arrangements of urban spatial layout on a larger scale.

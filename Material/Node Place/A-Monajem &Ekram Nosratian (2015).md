@@ -24,7 +24,8 @@ Monajem, S., & Ekram Nosratian, F. (2015). The evaluation of the spatial integra
 - [[]]
 - [[]]
 ## Tags
-#Methodologial #Examples
+#Methodologial #Examples 
+#EXAM_3 
 
 ```ad-abstract
 Urban planners usually consider the [[public transit | transportation system ]] and [[land use|land use systems]] in different ways. The [[node place]] model is an analytical tool that explores the interaction between the transportation and land use systems in station areas in an urban region. The essential issue with the node place model is spatial. To address this issue, spatial indices are added to the model. Another purpose of this paper is to provide a procedure to identify the most effective transportation and land use dynamics in station areas. In this respect, canonical correlation analysis was conducted on data concerning Tehran’s subway stations. The resulting spatial indices have a fairly logical relationship with other transportation and land use indices, and it is useful to incorporate these indices in the node place model. The case studies demonstrated that a well-integrated, continuous and dense spatial configuration of the street network in station areas is associated with an increase in the variety and intensity of activities, an increase in the workforce and better accessibility for the station by attracting greater pedestrian movement. Additionally, these case studies indicated that to sustain a station area, the streets that exist in a station area and the streets that are connected to a station should be connected to the streets that locally benefit from well-integrated areas within fewer steps.

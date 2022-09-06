@@ -27,6 +27,7 @@ Berawi, M. A., Saroji, G., Iskandar, F. A., Ibrahim, B. E., Miraj, P., & Sari, M
 - []
 ## Tags
 #TOD
+#EXAM_2 
 
 ```ad-abstract
 Transit-oriented development (TOD) is based around transit stations, with the emphasis on high population density and multifunctional areas in promoting sustainable mobility. This study aimed to develop a TOD model that could achieve an optimum land use allocation to maximize transit ridership. A critical literature review, an analysis of value engineering through function and benchmarking studies were conducted in order to develop a baseline plan for a TOD model, which was then optimized using linear programming. A total of four light rail transit (LRT) stations located in Jakarta were used as the case study to represent model implementation, ridership evaluation and optimal design. The optimization results showed that office workers constituted the highest number of transit passengers, followed by those working in hotels and commercial/retail and residential users. It was also found that optimizing the design of the TOD can increase the number of daily LRT passengers by up to 55%.

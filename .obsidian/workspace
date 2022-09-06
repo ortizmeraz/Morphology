@@ -4,165 +4,138 @@
     "type": "split",
     "children": [
       {
-        "id": "d05194c3111de8ae",
+        "id": "a762193222bcc7ba",
         "type": "leaf",
-        "dimension": 38.05899143672693,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Classic Morphology/A-Whitehand (2014).md",
-            "mode": "source",
+            "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+            "mode": "preview",
             "source": true
           }
         },
-        "group": "4880b341b629fdd0",
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Krop(2017).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.085}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":14.04391891891892}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Hillier, W. (2016).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Hillier, W. (2016).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":8},\"to\":{\"line\":27,\"ch\":8}},\"scroll\":83.64321608040201}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":18},\"to\":{\"line\":14,\"ch\":18}},\"scroll\":6.607843137254902}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gu (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":6.3559322033898304}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gauthier and Gilliland (2006).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":39},\"to\":{\"line\":42,\"ch\":39}},\"scroll\":36.98975}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":8},\"to\":{\"line\":26,\"ch\":8}},\"scroll\":5.970588235294118}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":57,\"ch\":505},\"to\":{\"line\":57,\"ch\":505}},\"scroll\":12.581560283687944}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Caniggia & Maffei (2017)..md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":10.21671826625387}"
-            },
-            {
-              "leaf": "d05194c3111de8ae",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":9.939759036144578}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Conzen (1960).md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":74.61566484517304}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":3.8823529411764706}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":8},\"to\":{\"line\":29,\"ch\":8}},\"scroll\":13.333386390768005}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A- Araldi & Fusco (2019b).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":8.764705882352942}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.6470588235294117}"
             },
             {
-              "leaf": "d05194c3111de8ae",
+              "leaf": "a762193222bcc7ba",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.28133704735376}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "f41b27c62323d091",
-        "type": "leaf",
-        "dimension": 61.94100856327307,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Material/Classic Morphology/A-Whitehand (2014).md",
-            "mode": "preview",
-            "source": true
-          }
-        },
-        "group": "4880b341b629fdd0",
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.03945707070707}"
+            },
             {
-              "leaf": "f41b27c62323d091",
-              "group": "4880b341b629fdd0",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":37.63636363636363}"
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":8},\"to\":{\"line\":31,\"ch\":8}},\"scroll\":13.623621169916435}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":8},\"to\":{\"line\":29,\"ch\":8}},\"scroll\":7.394957983193278}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":8},\"to\":{\"line\":31,\"ch\":8}},\"scroll\":15.152745327102803}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Papa & Bertolini (2015).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"scroll\":57.06003787878788}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.38974567099567}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":4},\"to\":{\"line\":77,\"ch\":4}},\"scroll\":67.16862623762377}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini  (1996).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":8},\"to\":{\"line\":26,\"ch\":8}},\"scroll\":7.764705882352941}"
+            },
+            {
+              "leaf": "a762193222bcc7ba",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":19},\"to\":{\"line\":26,\"ch\":19}},\"scroll\":10.382978723404255}"
             }
           ]
         }
@@ -196,9 +169,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Fleischmann",
+                "query": "Ibraeva",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -227,7 +200,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             },
@@ -236,7 +209,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Whitehand (2014).md",
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Whitehand (2014).md"
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md"
               }
             },
             "pane-relief:history-v1": {
@@ -350,17 +324,17 @@
     "width": 464,
     "collapsed": true
   },
-  "active": "d05194c3111de8ae",
+  "active": "a762193222bcc7ba",
   "lastOpenFiles": [
-    "Material/Classic Morphology/B-Krop(2017).md",
-    "Material/Classic Morphology/A-Kristjánsdóttir 2019.md",
-    "Material/Classic Morphology/A-Hillier, W. (2016).md",
-    "Material/Classic Morphology/B Hiller (2007).md",
-    "Material/Classic Morphology/A-Gu (2019).md",
-    "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Fleischmann  (2019).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
-    "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md",
-    "Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md"
+    "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
+    "Material/Classic Morphology/A-Conzen (1960).md",
+    "Table of Articles.md",
+    "Material/Classic Morphology/A-Feng & Gauthier (2021).md",
+    "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
+    "Material/Node Place/A-Papa & Bertolini (2015).md",
+    "Material/Node Place/A-Bertolini (1999)..md",
+    "Material/Node Place/A-Bertolini  (1996).md",
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
+    "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md"
   ]
 }

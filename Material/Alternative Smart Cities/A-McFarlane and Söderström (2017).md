@@ -24,6 +24,7 @@ McFarlane, C. and Söderström, O. (2017) ‘On alternative smart cities’, Cit
 [[]]
 ## Tags
 #Theoretical 
+#EXAM_3 
 
   ```ad-abstract
   **Smart urbanism** seems to be everywhere you turn. But in practice the **agenda is an uncertain one, usually only partially developed, and often more about corporate-led urban development** **than about urban social justice**. Rather than leave smart urbanism to the corporate and political elites, **there are opportunities now for critical urban scholarship to not only critique how it is currently constituted, but to give shape to a globally oriented alternative smart urban agenda.** An ambition like this means taking the ‘urban’ in ‘smart urban’ much more seriously. It means foregrounding the knowledges, political priorities and needs of those either actively excluded or included in damaging ways in mainstream smart urban discourses. **We outline steps towards an alternative smart urbanism. We seek to move beyond the specific to the general and do so by drawing on radically different initiatives across the Global North and South.** These initiatives provide tantalizing openings to a more socially just use of digital technology, where urban priorities and justice drive the use—or lack of use—of technology.

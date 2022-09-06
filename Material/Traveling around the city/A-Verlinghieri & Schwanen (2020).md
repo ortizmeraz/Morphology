@@ -30,7 +30,7 @@ Verlinghieri, E., & Schwanen, T. (2020). Transport and mobility justice: Evolvin
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-conclussion
 The papers in this VSI were presented during four paper sessions at by the 2018 annual meeting of the American Association of Geographers in New Orleans, which sought to expand the debate on justice in the context of transport and mobility. The papers provide further insight of the complex and situated nature of the debate around transport and mobility justice through the diversity of theoretical insights and case studies they discuss. While not necessarily questioning the nature of mobility and sometimes maintaining a distributive outlook, the contributions build on the third strand of theoretical diversification we highlighted and show concrete examples of how mobility justice can be understood and researched. Taking heed of Sheller's proposal, they also illustrate how the directions proposed by Davidson and Karlsson become a necessary move for mobility studies.

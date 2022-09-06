@@ -28,7 +28,7 @@ reference
 #EXAM_1 
 
 ```ad-abstract
-text
+Several models of retail activity distribution have been proposed in the scientific literature. Despite the large debate on their validity, few empirical studies have been proposed. Micro retail location data have been analyzed with different approaches; point pattern analysis methodologies have recently been presented as a way to detect spatial concentrations of points. Yet, concentration is not the only significant aspect defining retail fabrics. Economic geography recognizes that form and function participate simultaneously to the definition of retail districts. In this paper a new bottom-up data-based methodology is proposed to assess retail distribution starting from a store point pattern representation on a street network. Theory-based indicators are implemented with the combination of geoprocessing and geostatistical approaches, allowing the recognition of morpho-functional patterns. Bayesian classification methods are then applied to these spatial patterns, recognized as being retail fabrics characterizing the retailscape of a vast metropolitan area. This methodology is then applied to the real case study of the French Riviera metropolitan region. Retail fabrics and their spatial organization are identified and described.
 ```
 
 ## Bullet points

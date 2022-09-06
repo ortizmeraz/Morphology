@@ -25,7 +25,7 @@ Sarkar, C., Webster, C. and Kumari, S. (2018) ‘Street morphology and severity 
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-abstract
 Built environment factors, especially street-scale design and traffic casualties, are intrinsically interlinked. Starting from Alker Tripp's seminal ideas about city design, street morphology, and accident risk, this article summarizes results from an increasingly sophisticated line of enquiry at the boundaries between transport geography, network modeling, urban geography, and planning. It goes on to specify what we believe to be the most comprehensive study yet, based on five years' worth of road casualty data from London; GIS data on street morphology and physical features captured at a street-link unit of analysis; socio-economics and other determinants of accidents; and individual data about casualty victims. We test hypotheses about links between urban morphology and casualty severity using multi-level models with individual victim attributes at level-one, street-link morphology attributes (various measure of network connectivity) at level-two, and neighborhood descriptors at level-three.

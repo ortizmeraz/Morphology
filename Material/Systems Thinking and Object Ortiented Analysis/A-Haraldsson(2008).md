@@ -25,7 +25,7 @@ reference
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-abstract
 This is an introduction to System Thinking and modelling. System Thinking is a common concept for understanding how causal relationships and feedbacks work in an everyday problem. Understanding a cause and an effect enables us to analyse, sort out and explain how changes come about both temporarily and spatially in common problems. This is referred to as mental modelling, i.e. to explicitly map the understanding of the problem and making it transparent and visible for others through Causal Loop Diagrams (CLD). Here we will discuss how to use system thinking and Causal Loop Diagrams to understand and analyse complex problems.

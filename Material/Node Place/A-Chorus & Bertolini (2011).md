@@ -1,4 +1,4 @@
----
+	---
 Title: 			An application of the node place model to explore the spatial development dynamics of station areas in Tokyo 
 Author:			Chorus & Bertolini
 Year:			2011
@@ -25,6 +25,7 @@ Chorus, P., & Bertolini, L. (2011). An application of the node place model to ex
 - [[]]
 ## Tags
 #Methodologial 
+#EXAM_3 
 
 ```ad-abstract
 The high level of integration between railway and real estate development in Tokyo makes the city an interesting example for other metropolitan areas looking for ways to promote transit-oriented development. To successfully promote such a development pattern, an understanding of development dynamics in station areas is crucial. In this paper, a node place model is used to determine which transport and land use factors are responsible for structuring station area redevelopments in Tokyo, and to what extent. Thee interaction between specific transport and land use features—most importantly, proximity by train to the central business district and the number of train connections versus workforce concentration—is a powerful force structuring developments in Tokyo. However, other factors—most notably government policies—should also be taken into account.

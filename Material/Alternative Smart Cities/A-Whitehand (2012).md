@@ -24,7 +24,7 @@ Whitehand, J. W. R. (2012) ‘Issues in urban morphology’, Urban Morphology, 1
 ### Concepts
 [[]]
 ## Tags
-#Whitehand 
+#Whitehand #EXAM_3 
 
 ```ad-abstract
 A number of **challenges facing urban morphology** are examined. **Several** of these **relate to the multidisciplinary character of research on urban form** and the tendency for relevant disciplines to be poorly connected. The issues discussed, a number of which are prominent more widely within the social sciences and humanities, **include poor communication between different linguistic areas; underrepresentation of research on non-Western cities**; the tendency for studies to be place specific; and the poor relationship between research and practice. ISUF is having some success in leading attempts to meet these challenges.

@@ -27,6 +27,8 @@ Mavoa, S., Witten, K., McCreanor, T., & O’Sullivan, D. (2012). GIS based desti
 - [[]]
 ## Tags
 #Lit_Review
+#EXAM_3 
+
 
 ```ad-abstract
 There is relatively little research on accessibility using public transit as the travel mode. Yet understanding public transit accessibility is important for encouraging mode shifts to reduce car reliance and is essential for the wellbeing of non-car households. The paper describes two measures of public transit access. The first is a combined public transit and walking accessibility index, which measures potential access to destinations via public transit and walking modes. The second is a transit frequency measure, which is a measure of transit service level in an area. These two measures extend current public transit accessibility measures by including all components of the public transit journey, calculating accessibility at the parcel level and providing a measure of public transit service. Results for the Auckland region show that although 94.4% of the urban population live in areas with medium–high public transit and walking access, only 26.5% of the urban population also have an average transit frequency of two or more trips per hour per stop. Moreover, only 5% of the urban population live in areas with an average transit frequency of more than four services per hour per stop. This work highlights the importance of including measures of transit frequency when investigating public transit access. The results also reveal the potential to use these measures to gain a more complete and realistic picture of public transit access and to explore the potential for mode substitution and accessibility for non-car households.

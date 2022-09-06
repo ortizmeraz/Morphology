@@ -31,6 +31,8 @@ Capasso Da Silva, D., King, D. A., & Lemar, S. (2019). Accessibility in Practice
 - [[]]
 ## Tags
 #Applied 
+#EXAM_3
+
 
 ```ad-abstract
 Cities can enhance their sustainability planning by prioritizing accessibility as a performance metric for transportation planning. In this context, accessibility measures the ease of reaching opportunities and captures more characteristics of sustainable cities than the more conventionally used mobility metrics, focusing on the overall ability to move and generally recommending faster speeds to overcome distance. However, how cities can prioritize accessibility in planning is understudied.  

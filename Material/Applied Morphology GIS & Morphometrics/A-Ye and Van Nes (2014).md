@@ -24,6 +24,7 @@ Ye, Y., & Van Nes, A. (2014). Quantitative tools in urban morphology: Combining 
 - [[]]
 ## Tags
 #Methodologial 
+#EXAM_1 
 
 ```ad-abstract
 A spatial modelling method is presented that utilizes a Geographical Information System (GIS) to combine the analyses of three constituent elements of urban form recognized by M. R. G. Conzen. The aim is to reduce a spatial classification system for various types of urban areas, and reveal how they perform socio-economically. In the proposed method, space syntax, spacematrix, and mixed-use index (MXI) are used to assess street-network integration, building density, and land-use mixture. These elements are incorporated into a single framework. The validity of the method is initially tested through human behaviour records based on Global Positioning System (GPS) tracking. The method is then used in a comparison of the various spatial parameters of three new towns and one old town in the Netherlands. The results show that the old town has higher values of street network integration, building density, and land-use mixture than the new towns. The method functions well as a diagnostic tool for suggesting ways of improving socio-economic performance in urban areas. For example a spatial diagnosis can be made for new towns suffering from a lack of vibrant street life. The method helps to reveal the interdependences of street-network integration, building density, and land-use mixture in urban transformation processes.

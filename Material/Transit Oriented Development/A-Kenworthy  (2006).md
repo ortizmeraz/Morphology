@@ -25,7 +25,7 @@ Kenworthy, J. R. (2006). The eco-city: ten key transport and planning dimensions
 - [[]]
 - [[]]
 ## Tags
-#Theoretical #Guides
+#Theoretical #Guides #EXAM_2 
 
 ```ad-abstract
 Making existing cities and new urban development more ecologically based and liveable is an urgent priority in the global push for sustainability. This paper discusses ten critical responses to this issue and summarizes them in a simple conceptual model that places the nexus between transport and urban form at the heart of developing an eco-city. This involves compact, mixed-use urban form, well-defined higher-density, human-oriented centres, priority to the development of superior public transport systems and conditions for non-motorized modes, with minimal road capacity increases, and protection of the city’s natural areas and food-producing capacity. These factors form the framework in which everything else is embedded and must operate, and if they are not addressed only marginal changes in urban sustainability can be made. Within this framework, environmental technologies need to be extensively applied. Economic growth needs to emphasize creativity and innovation and to strengthen the environmental, social and cultural amenities of the city. The public realm throughout the city needs to be of a high quality, and sustainable urban design principles need to be applied in all urban development. All these dimensions need to operate within two key processes involving vision-oriented and reformist thinking and a strong, community-oriented, democratic sustainability framework for decision-making. 

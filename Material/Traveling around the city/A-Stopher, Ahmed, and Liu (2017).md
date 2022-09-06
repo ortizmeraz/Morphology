@@ -13,7 +13,7 @@
 - [[]]
 - [[]]
 ## Tags
-#Theoretical #Methodologial 
+#Theoretical #Methodologial #EXAM_3 
 
 ## Abstract
 The existence of stable personal travel-time expenditure has been debated for more than 40 years. Aggregate research has supported this notion, while disaggregate research has largely failed to find evidence. In this paper, a unique data set containing multiday GPS measurements of travel time expenditures over a period from 5 to 8 years is used to examine the evidence for stable daily personal travel-time expenditures. The evidence from this study adds further support to the notion that people expend a stable amount of travel time over a period as long as 8 years, and the average level of such expenditure accords almost exactly with that claimed over the years from aggregate studies. 

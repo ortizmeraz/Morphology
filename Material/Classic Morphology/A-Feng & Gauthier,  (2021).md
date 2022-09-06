@@ -1,12 +1,12 @@
 ---
-Title: 			Untangling Urban Sprawl and Climate Change: A Review of the Literature on Physical Planning and Transportation Drivers
-Author:			name
-Year:			year
-Added in:		2022-07-26
+Title: 			Untangling Urban Sprawl and Climate Change: A Review of the Literature on Physical Planning and Transportation Drivers.
+Author:			Feng, Q., & Gauthier, P. 
+Year:			2021
+Added in:		2022-09-05
 tag:			Article_
 group:			group
 fullref: 		"Feng, Q., & Gauthier, P. (2021). Untangling Urban Sprawl and Climate Change: A Review of the Literature on Physical Planning and Transportation Drivers. _Atmosphere_, _12_(5), 547. WorldCat.org. [https://doi.org/10.3390/atmos12050547](https://doi.org/10.3390/atmos12050547)"
-status:			Extracted
+status:			Need to extract
 ---
 
 # Untangling Urban Sprawl and Climate Change: A Review of the Literature on Physical Planning and Transportation Drivers 
@@ -14,25 +14,25 @@ status:			Extracted
 Feng, Q., & Gauthier, P. (2021). Untangling Urban Sprawl and Climate Change: A Review of the Literature on Physical Planning and Transportation Drivers. _Atmosphere_, _12_(5), 547. WorldCat.org. [https://doi.org/10.3390/atmos12050547](https://doi.org/10.3390/atmos12050547)
 ```
 ### Author's keywords
-
 - [[climate change]]
-- [[sprawl|urban sprawl]]
+- [[urban sprawl]]
 - [[urban form]]
 - [[land use]]
-- [[urban planning|physical planning]]
-- [[transit|urban transportation]]
+- [[physical planning]]
+- [[urban transportation]]
 - [[greenhouse gas emission]]
 - [[energy consumption]]
+
 ### Concepts
 - [[]]
 - [[]]
 - [[]]
 - [[]]
 ## Tags
-#tag
+#EXAM_3 
 
 ```ad-abstract
-Significant efforts have been dedicated to studying the linkages between urban form, fossil energy consumption, and climate change. The theme of urban sprawl helped to federate a significant portion of such efforts. Yet, the research appears fragmented, at stems from different disciplines and mobilizes different methods to probe different aspects of the issue. This paper seeks to better understand the status of knowledge concerning the linkages between sprawl and climate change through a critical review of the literature published between 1979 and 2018. The exercise entailed revisiting how sprawl has been defined, characterized and measured, and how such parameters have informed the research themes and the approaches mobilized to study its impacts on climate change. For, sprawled environments contribute the climate change directly and indirectly, due to the individual or combined effects of its land use, land cover, urban form, and transportation characteristics. The results indicate that sprawl’s impacts have been mainly investigated in three principal streams of research and based on a limited number of factors or combinations of factors. Though a strong consensus emerges on the negative environmental costs of sprawl, including toward climate change, there remain ambiguities when trying to untangle and weigh specific causes.
+Abstract: Significant efforts have been dedicated to studying the linkages between urban form, fossil energy consumption, and climate change. The theme of urban sprawl helped to federate a significant portion of such efforts. Yet, the research  appears fragmented, at stems from different disciplines and mobilizes different methods to probe different aspects of the issue. This paper seeks to better understand the status of knowledge concerning the linkages between sprawl and climate change through a critical review of the literature published between 1979 and 2018. The exercise entailed revisiting how sprawl has been defined, characterized and measured, and how such parameters have informed the research themes and the approaches mobilized to study its impacts on climate change. For, sprawled environments contribute the climate change directly and indirectly, due to the individual or combined effects of its land use, land cover, urban form, and transportation characteristics. The results indicate that sprawl’s impacts have been mainly investigated in three principal streams of research and based on a limited number of factors or combinations of factors. Though a strong consensus emerges on the negative environmental costs of sprawl, including toward climate change, there remain ambiguities when trying to untangle and weigh specific causes.
 ```
 
 ## Bullet points
@@ -49,12 +49,12 @@ Significant efforts have been dedicated to studying the linkages between urban f
 11. North American contexts have been given more weight compared to other settings.
 12. Page 3
 13. Table 1. Reviews of either urban sprawl, the environmental impacts of urban sprawl, or both.
-14. ![Table Description automatically generated](file:///C:/Users/Omar/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+14. ![[Pasted image 20220905111946.png]]
 15. There is an overwhelming consensus to the effect that the GHG emissions caused by human activities are the most important cause of climate change [6,10–14]. Among all of the GHGs, carbon dioxide (CO2) is the most detrimental contributor to global climate change [6,15,16].
 16. Cities are already responsible for approximately 80% of the overall GHG/CO2 emissions [18], while urbanized populations are expected to double, as rural populations level off or decline [19] (p.3133).
 17. Page 4
-18. **Defining, Characterizing, and Measuring Sprawl**
-19. **Defining Sprawl**
+18. Defining, Characterizing, and Measuring Sprawl
+19. Defining Sprawl
 20. The forms assumed by urbanization have evidently evolved in the course of history.
 21. For thousands of years, the forms of cities had been essentially predicated on walking.
 22. Yet, even the most populous cities displayed a spatial extension limited to a radius of 5 km or so, corresponding to an hour of walking from the periphery to the center. Such cities had to “grow from within,” which entailed increased densities of populations, buildings, and activities.
@@ -70,14 +70,14 @@ Significant efforts have been dedicated to studying the linkages between urban f
 32. Sprawl is characterized by intertwined sets of characters that interact with and influence each other.
 33. The most common categories of variables mobilized to measure properties associated with the three main characters of sprawl have been identified, by relying on inductive and deductive reasoning while probing the literature on sprawl characterization and measurement. Table 3 summarizes these findings.
 34. Page 7
-35. ![Graphical user interface, text, email Description automatically generated](file:///C:/Users/Omar/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)
-36. Land use variables are routinely referred to as the so-called “D variables.” They are centered on the compositional and configurational characteristics of the land allocation in a geographical area of reference, as well as on accessibility to specific amenities (jobs, transit stops) or overall accessibility by foot (relying on topological variables as proxies).
-37. Cervero and Kochelman coined the original expression “three Ds,” which stands for: density, diversity (land-use composition), and design (accessibility based on a place’s spatial characteristics)
-38. The land use variables are typically measured at the neighborhood scale by using census data, agency data, or data that can be derived from GIS.
-39. Sprawl is almost indissociable from heavy reliance on automobiles.
-40. Page 8
-41. Sprawl and Climate Change
-42. ![Graphical user interface Description automatically generated](file:///C:/Users/Omar/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)
+35. Table 3. Sets of variables are used to measure sprawl.
+36. ![[Pasted image 20220905112106.png]]
+37. Land use variables are routinely referred to as the so-called “D variables.” They are centered on the compositional and configurational characteristics of the land allocation in a geographical area of reference, as well as on accessibility to specific amenities (jobs, transit stops) or overall accessibility by foot (relying on topological variables as proxies).
+38. Cervero and Kochelman coined the original expression “three Ds,” which stands for: density, diversity (land-use composition), and design (accessibility based on a place’s spatial characteristics)
+39. The land use variables are typically measured at the neighborhood scale by using census data, agency data, or data that can be derived from GIS.
+40. Sprawl is almost indissociable from heavy reliance on automobiles.
+41. Page 8
+42. Sprawl and Climate Change
 43. The Impacts of Urban Density on Fossil Energy Consumption and GHG/CO2 Emissions Density was and still is one of the most widely used indicators to measure land-use and urban form intensity.
 44. The second line of inquiry centers on the energy consumption and emissions of the buildings themselves (heating, cooling, etc.) depending on the density.
 45. Page 9
@@ -90,7 +90,7 @@ Significant efforts have been dedicated to studying the linkages between urban f
 52. Page 15
 53. While the consensus is strong about the environmental costs of sprawl and its contribution to climate change, there exists a number of gaps, limitations, and seemingly diverging interpretations on a limited number of specific aspects.
 54. Another issue stems from entangled factors and conditions in sprawled environments (or their polar opposite the compact city). Higher urban density for instance is generally accompanied by mixed land uses and better public transit, so that variables measuring those aspects tend to correlate with one another [55], and with fossil energy use and GHG/CO2 emissions.
-55. **Discussion**
+55. Discussion
 56. Any serious attempts to measure the impacts of urbanized habitats on the environment, or to intervene on such issues with the aims of reducing their environmental footprints or to build-up resilience, require a deep understanding of the urban material and spatial forms that are manifested in the contemporary city.
 57. Proper theorization and characterization of the urban built environments constitute an essential facet of any such research effort.
 58. Firstly, lacking proper theorization of urban form often leads to a crudely approximative characterization and quantification of spatial conditions (e.g., the widespread use of density indicators that does not account for the variability of spatial composition and configuration in which the same density can be manifested).

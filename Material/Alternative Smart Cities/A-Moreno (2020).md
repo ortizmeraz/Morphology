@@ -30,6 +30,7 @@ Moreno, C., Allam, Z., Chabaud, D., Gall, C., & Pratlong, F. (2021). Introducing
 - [[]]
 ## Tags
 #Theoretical 
+#EXAM_3 
 
 ```ad-abstract
 The socio-economic impacts on cities during the COVID-19 pandemic have been brutal, leading to increasing inequalities and record numbers of unemployment around the world. While cities endure lockdowns in order to ensure decent levels of health, the challenges linked to the unfolding of the pandemic have led to the need for a radical re-think of the city, leading to the re-emergence of a concept, initially proposed in 2016 by Carlos Moreno: the “15-Minute City”. The concept, offering a novel perspective of “chrono-urbanism”, adds to existing thematic of Smart Cities and the rhetoric of building more humane urban fabrics, outlined by Christopher Alexander, and that of building safer, more resilient, sustainable and inclusive cities, as depicted in the Sustainable Development Goal 11 of the United Nations. With the concept gaining ground in popular media and its subsequent adoption at policy level in a number of cities of varying scale and geographies, the present paper sets forth to introduce the concept, its origins, intent and future directions.
@@ -48,7 +49,7 @@ The approaches or philosophical perspectives the article proposes, while ethical
 
 ## Bullet points
 
-### **Good**
+ **Good**
 1. This form of urban approach could be traced back to the celebrated modernist architect le Corbusier, who laid the blueprint for urban sprawl in his bid to escape the unsustainable urban environment. He supported that cities were not efficiently planned for them to be considered “sustainable”, and the only alternative was to demolish and re-plan and rebuild with sustainable dimensions being infused.
 2. The creation of urban environments accommodating cars has prompted the demand for vehicular-dependent cities, and this has, over time, been satisfied through the mass production of automobiles, which paradoxically aligned with the global agenda of industrialization and oil dependency, which have been later understood as being among the epoch where emissions escalated the impacts of climate change.
 3. The need for this radical re-think, coupled with pressing socio-economic issues, led cities to adopt urban planning mechanisms to ensure that quality of life is preserved beyond the fractures that the virus will possibly leave as legacy in cities.
@@ -79,7 +80,7 @@ The approaches or philosophical perspectives the article proposes, while ethical
 	1. Therefore, the proximity dimension for cyclists would be defined differently from that of those on foot. Indeed, on this matter, there had been other concepts such as 20-min cities [41] and 30-min cities [115], but the bottom line in all of those is the need to underline that proximity-based planning is key in sustaining quality of life and in providing for the basic urban functions.
 13. The research gains in importance, noting that some cities can transform and renovate existing infrastructures (without major restructuring) to benefit from bicycle lanes, parks and greener spaces to match the proposed model and to align with the vision of urbanists such as Whyte [98], Alexander [88], Salingaros [81] and Jacobs [5].
 
-### **UNREALISTIC**
+ **UNREALISTIC**
 
  14. Adding to this philosophy, we advocate for the need for quality human interaction and that participatory processes are encouraged at varying scales of planning processes, through conception to after construction, through feedback loops. With modern smart technologies that cities are pursuing, this aspect of interaction is becoming possible, and should become a norm as is widely expressed by Gehl [37].
  15. This concept originated from the first author, Carlos Moreno, who advocates for an urban set-up where locals are able to access all of their basic essentials at distances that would not take them more than 15 min by foot or by bicycle.
