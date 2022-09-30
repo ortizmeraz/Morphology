@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a762193222bcc7ba",
+        "id": "1fdca64c280ca76c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+            "file": "Material/Node Place/A-Nigro et al. (2019).md",
             "mode": "preview",
             "source": true
           }
@@ -18,124 +18,124 @@
           "pos": 0,
           "stack": [
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Nigro et al. (2019).md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":9.939759036144578}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Conzen (1960).md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":3.8823529411764706}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini  (1996).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"preview\",\"source\":true}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Chorus & Bertolini (2011).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":51.80701754385965}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":57.94655704008222}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini  (1996).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":36.73463687150838}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":36.956843403205916}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Olorunniwo & Hsu, (2006).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":8.549844236760125}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":59.60062111801242}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":34.44444444444444}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":76.99006246450881}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":37.78383408667907}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":24.055900621118013}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Sarkar, Webster,and Kumari (2018).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":67.3840579710145}"
+            },
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Rokseth (2019).md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{\"scroll\":0}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Stopher, Ahmed, and Liu (2017).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":2.1245283018867926}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":37.69475357710652}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Monajem &Ekram Nosratian (2015).md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":104.11799410029498}"
             },
             {
-              "leaf": "a762193222bcc7ba",
+              "leaf": "1fdca64c280ca76c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":1.6470588235294117}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":42.03945707070707}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":8},\"to\":{\"line\":31,\"ch\":8}},\"scroll\":13.623621169916435}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":8},\"to\":{\"line\":29,\"ch\":8}},\"scroll\":7.394957983193278}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":8},\"to\":{\"line\":31,\"ch\":8}},\"scroll\":15.152745327102803}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Papa & Bertolini (2015).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"scroll\":57.06003787878788}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Zhang, Marshall & Manley (2019).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":53.38974567099567}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":4},\"to\":{\"line\":77,\"ch\":4}},\"scroll\":67.16862623762377}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini  (1996).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":8},\"to\":{\"line\":26,\"ch\":8}},\"scroll\":7.764705882352941}"
-            },
-            {
-              "leaf": "a762193222bcc7ba",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"source\",\"source\":true}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":19},\"to\":{\"line\":26,\"ch\":19}},\"scroll\":10.382978723404255}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Mavoa et al. (2012),.md\",\"mode\":\"preview\",\"source\":true}}",
+              "eState": "{\"scroll\":43.57556935817806}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ibraeva",
+                "query": "tag:#EXAM_3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,8 +209,7 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+                "file": "Material/Node Place/A-Nigro et al. (2019).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md"
+                "file": "Material/Node Place/A-Nigro et al. (2019).md"
               }
             },
             "pane-relief:history-v1": {
@@ -324,17 +323,17 @@
     "width": 464,
     "collapsed": true
   },
-  "active": "a762193222bcc7ba",
+  "active": "1fdca64c280ca76c",
   "lastOpenFiles": [
-    "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
-    "Material/Classic Morphology/A-Conzen (1960).md",
-    "Table of Articles.md",
-    "Material/Classic Morphology/A-Feng & Gauthier (2021).md",
-    "Material/Node Place/A-Zhang, Marshall & Manley (2019).md",
-    "Material/Node Place/A-Papa & Bertolini (2015).md",
     "Material/Node Place/A-Bertolini (1999)..md",
     "Material/Node Place/A-Bertolini  (1996).md",
+    "Material/Node Place/A-Chorus & Bertolini (2011).md",
+    "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
     "Material/Alternative Smart Cities/A-Whitehand (2012).md",
-    "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md"
+    "Material/Traveling around the city/A-Olorunniwo & Hsu, (2006).md",
+    "Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md",
+    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+    "Material/Transit and Land-use/B-Litman(2008).md",
+    "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md"
   ]
 }
