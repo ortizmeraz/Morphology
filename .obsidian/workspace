@@ -9,14 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Material/Node Place/A-Nigro et al. (2019).md",
-            "mode": "preview",
+            "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
+            "mode": "source",
             "source": true
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "1fdca64c280ca76c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Vuchic, (2017)..md\",\"mode\":\"source\",\"source\":true}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":39},\"to\":{\"line\":46,\"ch\":39}},\"scroll\":50.39281400966183}"
+            },
             {
               "leaf": "1fdca64c280ca76c",
               "group": null,
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Monajem &Ekram Nosratian (2015).md\",\"mode\":\"preview\",\"source\":true}}",
               "eState": "{\"scroll\":104.11799410029498}"
-            },
-            {
-              "leaf": "1fdca64c280ca76c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Mavoa et al. (2012),.md\",\"mode\":\"preview\",\"source\":true}}",
-              "eState": "{\"scroll\":43.57556935817806}"
             }
           ]
         }
@@ -169,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#EXAM_3",
+                "query": "category",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -209,7 +209,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Node Place/A-Nigro et al. (2019).md",
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Node Place/A-Nigro et al. (2019).md"
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md"
               }
             },
             "pane-relief:history-v1": {
@@ -269,62 +270,17 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "0c5b4387ca1fedb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Table of Articles.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "056a7599968ad0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "056a7599968ad0e5",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "056a7599968ad0e5",
-                  "group": null,
-                  "state": "{\"type\":\"empty\",\"state\":{}}",
-                  "eState": "{}"
-                }
-              ]
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 464,
-    "collapsed": true
+    "width": 464
   },
-  "active": "1fdca64c280ca76c",
+  "active": "d57a7946b623cca5",
   "lastOpenFiles": [
+    "Material/Node Place/A-Nigro et al. (2019).md",
     "Material/Node Place/A-Bertolini (1999)..md",
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Node Place/A-Chorus & Bertolini (2011).md",
@@ -333,7 +289,6 @@
     "Material/Traveling around the city/A-Olorunniwo & Hsu, (2006).md",
     "Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
-    "Material/Transit and Land-use/B-Litman(2008).md",
-    "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md"
+    "Material/Transit and Land-use/B-Litman(2008).md"
   ]
 }

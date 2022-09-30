@@ -56,9 +56,9 @@ text
 23. Page 6
 24. Bicycle transportation is the most economical vehicular mode of transportation. It is far less comfortable than the car, it requires effort on the rider's part,
 25. The highway transportation system consists of networks and facilities (roads and streets) that can be classified in three categories:
-	1. Category C- urban streets, which serve primarily local traffic accessing the served area;
-	2. Category B- arterials, some of which are partially grade separated multilane roadways serving mostly through traffic; and
-	3. Category A-freeways or divided, controlled-access highways, which serve only through traffic.
+	1. **Category C-** urban streets, which serve primarily local traffic accessing the served area;
+	2. **Category B**- arterials, some of which are partially grade separated multilane roadways serving mostly through traffic; and
+	3. **Category A**-freeways or divided, controlled-access highways, which serve only through traffic.
 26. Page 7
 27. The private car gives its user great personal convenience and independence in time and direction of travel, short travel time, and personal comfort. These advantages make the car an extremely attractive mode, particularly for individual users, families, and small groups. As a system, however, the auto/highway mode is limited in its urban applications. It causes congestion at relatively low traffic volumes (atraffic lane on a local or an arterial street reaches congestion when cars on it carry between 700 and 1,400 persons per hour). Its social cost, created by congestion and negative environmental impacts, can be high, especially in urban areas. Its average energy consumption per person-kilometer (-mile) is much higher than that for any other mode. Finally, highway accidents lead to large social and personal costs.
 28. Page 8
@@ -88,9 +88,9 @@ text
 	2. Technology (mainly, highway or rail vehicles);_and
 	3. Type ofoperation (local, express, special)(Vuchic 1981)
 51. Page 11
-52. Category B. This category of ROW is partially separated. Typically, transit tracks (or, sometimes, lanes) are placed in a strip of land, such as a curbed street median, physically separated from other traffic. Because of its significance, it is important to define ROW types. Right-of-way, according to Vuchic (1981), is classified into three categories- C, B, and A.
-53. Category C. This category consists of streets or roads with mixed traffic. It requires little, if any, investment. Generally, however, transit services in this category are not competitive with auto travel with respect to speed and reliability: transit vehicles travel together with cars, but they are delayed by having to stop for passengers.
-54. Category A. This ROW category is fully separated and used by transit vehicles or trains only. It requires very high investment for construction of its aerial structures, tunnels, separated stations, and other infrastructure.
+52. **Category B**. This category of ROW is partially separated. Typically, transit tracks (or, sometimes, lanes) are placed in a strip of land, such as a curbed street median, physically separated from other traffic. Because of its significance, it is important to define ROW types. Right-of-way, according to Vuchic (1981), is classified into three categories- C, B, and A.
+53. **Category C**. This category consists of streets or roads with mixed traffic. It requires little, if any, investment. Generally, however, transit services in this category are not competitive with auto travel with respect to speed and reliability: transit vehicles travel together with cars, but they are delayed by having to stop for passengers.
+54. **Category A**. This ROW category is fully separated and used by transit vehicles or trains only. It requires very high investment for construction of its aerial structures, tunnels, separated stations, and other infrastructure.
 55. Page 12
 56. Consequently, transit modes with ROW categoryA- that is, rapid transit or metro systems-offer the highest "performance/investment package" among all transit modes. With their high service quality and distinct lines and stations, they are competitive with car travel and attract considerably higher ridership than street transit modes, ceteris paribus.
 57. The specific vehicle-way technology- minibus, articulated bus, LRT, AGT, or others - actually is a secondary decision in the choice of modes.
@@ -100,7 +100,7 @@ text
 61. Regular transit offers services on an integrated network, usually consisting of numerous lines and different modes, with convenient transferring. This basic transit category serves travel throughout the urba1:- area(the"many-to-many" pattern shown in figure 2.2a), from early mornm tolate evening. This is the basic transit service that all groups of population can use for any trip purpose they need.
 62. Commuter transit provides service exclusively for commuters traveling between suburban areas and the city center or other major activity centers.
 63. Thus, it provides "many-to-one" and "one-to-many" types of travel during the morning and afternoon commuting hours, respectively (figure 2.2b).
-64. Commuter transit supplements regular transit. Usually it is provided by bus lines operating during peak hours only, often in unidirectional, high occupancy-vehicle (HOV) lanes,
+64. **Commuter transit supplements regular transit. Usually it is provided by bus lines operating during peak hours only, often in unidirectional, high occupancy-vehicle (HOV) lanes,**
 65. Page 14
 66. Lack of high-quality regular transit services places a hardship on such population groups as teenagers, the elderly, tourists, choice transit riders, and others; it also leads to serious environmental deterioration in the urban area. Consequently, large cities that rely on cars and commuter transit only are at a serious competitive disadvantage in comparison with cities that have good regular transit services, even if the car has a dominant role.
 67. Page 20
