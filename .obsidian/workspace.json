@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7759c8e7e1f58816",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbee02a6909f9a33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e584b044c55a1e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5b6fcd83dc70b4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "97b8e1cb6a08e930",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dba4aed2461f615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d57a7946b623cca5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "555450860a189c44",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "88258f3a5232a8c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "8d284f3db761463d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c41c27f4a3ae8b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b17215eb0c0ae2fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5468a5f475412720",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Material/Classic Morphology/A-Scheer(2015).md"
+              }
+            }
+          },
+          {
+            "id": "c6a35d9919a14e3a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "9e584b044c55a1e7",
+  "lastOpenFiles": [
+    "-Concepts/urban tissue.md",
+    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
+    "Material/Traveling around the city/B-Marshall (2004).md",
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
+    "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
+    "Material/Classic Morphology/A-Griffiths(2015).md",
+    "Material/Classic Morphology/A-Neuman (2005).md",
+    "Material/Classic Morphology/A-Kropf(2009).md",
+    "Material/Classic Morphology/A-Gu (2019).md",
+    "Material/Classic Morphology/A-Conzen (1960).md"
+  ]
+}

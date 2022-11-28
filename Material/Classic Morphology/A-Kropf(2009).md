@@ -70,9 +70,7 @@ Abstract. The diversity and complexity of human settlements is reflected in the 
 
 ·         The obvious and perhaps superficially belaboured starting point for critical analysis must be the terms urban morphology and urban form.
 
-·         the work of urban morphologists clearly suggests that the term is taken to refer more broadly to human
-
-·         settlements.
+·         the work of urban morphologists clearly suggests that the term is taken to refer more broadly to human settlements.
 
 ·         Morphology, as originally conceived by Goethe (1952) (see also Wilkinson, 1962) is the study of physical form, principally of living things but also works of art.
 

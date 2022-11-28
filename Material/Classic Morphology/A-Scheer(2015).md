@@ -52,8 +52,8 @@ A very broad conceptual diagram of the epistemology of the field of urban morpho
 13. This difference of opinion essentially relates to the extent to which urban morphology as a distinct category of knowledge is autonomous observation and analysis of formal elements or whether it also includes linking those formal elements to other conditions,
 14. Page 4
 15. Kropf and Malfroy acknowledge that ‘the built environment is an enormous set of indices of the human activity that created them’ (Kropf and Malfroy, 2013, p. 129).
-16. The assumption of this paper is that urban morphology is a distinct ield of knowledge that does not have the ambition of achieving a complete description of the complicated dynamics of the city.
-17. Rather, it is concerned with describing, deining and theorizing a single segment of urban knowledge (form and formal change) and suggesting how that knowledge is brought into speciic relationship with other dynamics and conditions in a particular place (including transport, ecology, social and economic conditions, human behaviour, and political agents).
+16. The assumption of this paper is that urban morphology is a distinct field of knowledge that does not have the ambition of achieving a complete description of the complicated dynamics of the city.
+17. Rather, it is concerned with describing, defining and theorizing a single segment of urban knowledge (form and formal change) and suggesting how that knowledge is brought into specific relationship with other dynamics and conditions in a particular place (including transport, ecology, social and economic conditions, human behaviour, and political agents).
 18. Rather, in Moudon’s words, the challenge of urban morphology ‘is to demonstrate the common ways in which cities are built and transformed and to illustrate how the principles of change work in many different contexts’ (Moudon, 1997, p. 9).
 19. This epistemology is entirely based on a conception of urban morphology as cognitive knowledge as distinct from presumption.
 20. However, the analysis and observations of these researchers forms a basis of knowledge apart from their design work.
@@ -105,7 +105,7 @@ A very broad conceptual diagram of the epistemology of the field of urban morpho
 62. The boundary matrix (Figure 3) is perhaps the most overlooked of the three elements, especially by those not familiar with urban morphology’s traditions. The matrix is the subdivision of an area into bounded spaces.
 63. The boundary matrix relates to another important distinction: plots, and especially paths, have much greater endurance than buildings, and most theories of change are built upon this recognition.
 64. Page 13
-65. Land is the inal category of elements. For purposes of urban morphology, the natural vegetation, soils, water bodies and topography are the key data points, although other categories pertaining to the natural landscape may also be important from time to time to describe the form of a city.
+65. Land is the final category of elements. For purposes of urban morphology, the natural vegetation, soils, water bodies and topography are the key data points, although other categories pertaining to the natural landscape may also be important from time to time to describe the form of a city.
 66. Conclusion
 67. This paper demonstrates that morphologists can compare their contributions to the knowledge base, using a simple epistemological schema.
 68. The comparison of the schools under this schema is incomplete in this paper. However, if it could be rigorously pursued, the comparison could begin to provide clarity in relation to the terms and concepts of the ield, without requiring that one or another research technique be brought into conformity.
