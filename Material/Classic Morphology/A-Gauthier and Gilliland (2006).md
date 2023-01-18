@@ -35,45 +35,40 @@ Urban morphology is a thriving field of enquiry involving researchers from a wid
 
 
 ## Bullet points
-1.  Urban morphology, in simple terms, is the study of city forms. While there is general agreement among self-proclaimed ‘urban morphologists’ as to what they study, there is considerable debate over how urban forms are to be studied.
 
-2. …one of the most urgent requirements in the field of urban morphology is the elucidation of its philosophical or epistemological foundations (Conzen, 1998; Gerosa, 1999; Whitehand, 1999).
+1. ![[Pasted image 20220816115715.png]]
+2. Page 2
+An inevitable source of misunderstanding stems from the fact that major contributions to urban morphological scholarship continue to be made by researchersfrom a wide variety of disciplinary, linguistic and cultural backgrounds. Undoubtedly, part of the confusion arising from divergent theories and methods in urban morphology could be alleviated with a multi-lingual glossary of terminology in the field (cf. Larkham and Jones, 1991; Malfroy, 1986).
+Page 3
+In this paper, we propose a system to identify and interpret, or ‘map’, individual contributions to the study of urban form according to their respective theoretical or epistemological perspectives.
+First, we distinguish between cognitive and normative approaches to urban form, and then a second distinction is made between what we term internalist and externalist contributions.
+Cognitive versus normative approaches form, 
+...a twofold distinction can be made. First, there are studies that are aimed at providing explanations or developing explanatory frameworks or both (i.e. cognitive contributions); and secondly, there are studies aimed at determining the modalities according to which the city should be planned or built in the future (i.e. normative contributions).
+We use the expression cognitive toy. We use the expression cognitive to reflect the heuristic nature of an intellectualenterprise concerned with producing knowprise concerned with producing knowledge or at developing theoretical means,ge or at developing theoretical means, methods and techniques destined to producesuch knowledge.
+Page 4
+We posit that differentiating between cognitive and normative studies is a critical step for clarifying the multi-faceted nature of the intellectual agenda of urban morphology. 
+The field of urban morphology lies at the intersection of several academic disciplines such as architecture, urban planning, geography and history.
+Moudon (1994) states for instance that the so called Italian school offers a renewed theoretical foundation for urban planning and design, which engages long-standing city building traditions.
+Urban planning is a case in point, and one in which the problem of the heuristic programmes and procedures is raised quite acutely.
+The discipline of urban planning seems to possess a mixed identity: science, applied science and prescriptive practice (Levy and Spigai, 1989).
+To add to the confusion, the applied planning literature, including canonic texts of urbanism, often aim at conferring scientific status on what is highly ideological (Choay, 1965; Lefebvre, 1970).
+To distinguish between cognitive and normative approaches does much to clarify the nature of the intellectual contribution of the school of process typology, as exemplified by the ideas of Italian architect Saverio Muratori. 
+Various commentators have posited that the Muratorian tradition has developed a normative approach to the built environment. 
+Page 5
+The appeal of comparing and assessing the process typology and Conzenian approaches resides in the fact that both have developed – based on different philosophical and epistem ological grounds – rather sophisticated descriptive and explanatory frameworks to study urban form and its transformations.
+Internalist versus externalist approaches
+According to the second proposed criterion for classification, each contribution is sorted according to the epistemic status conferred to urban form: by distinguishing between contributions that consider urban form as a relatively independent system, and contributions in which urban form stands as a dependent variable, or passive product of various external determinants.
+To comprehend the urban fabric in terms of ‘urban form’, understood as a system of its own that is governed by internal sets of relations, necessitates two prerequisites: first, that the elements in the system are not discrete objects; and secondly, that the relations between elements are not contingent. In other words, there exists an ‘internal’ logic to this system. Such a perspective allows for the development of theoretical frameworks that find the primary explanation for morphogenesis in the constraints and potential for change present within the system itself.
+Jean Castex and colleagues (1980) posit that, although to a certain extent a city is a material projection of social, political and economic systems or structures, to comprehend it as a built object and a form comprising the city as an object allows one to observe that this projection proceeds through various systems of spatial symbolization, and is manifested in a substance, the built space, that has its own consistency and resilience (Castex et al., 1980, XI). 
+Alternatively, we label as externalist those approaches that primarily see the urban form as the end product of processes driven by political (e.g. Çelik, 1997), anthropological (e.g. Rapoport, 1977, 1982; Rykwert, 1988),geographical and economic (e.g. Vance, 1977, 1990), historical (e.g. Benevolo, 1980), and perceptual (e.g. Lynch and Rodwin, 1958; Lynch, 1960) determinants.
+Page 6
+We posit that a common object of enquiry, i.e. the city as a spatial form, and a common conceptualization of the urban built environment as a dynamic system granted with relative autonomy, connects the contributions of the three ‘schools’ and constitutes the primary core of the urban morphology research programme, albeit this programme is still in the process of becoming a paradigm.
+Perhaps the most important contribution of urban morphology to the study of cities has been to show how the built environment can be understood as a system of relations submitted to rules of transformation.
+Page 7
+A closer look at the grid reveals that the internalist/cognitive quadrant includes variousscientific studies concerned with the city as an artifact and spatial form, and which conceptualize its built environment as a system. Such a depiction best qualifies the work of M.R.G. Conzen (1960, 1962, 1968), for instance, as well as the scientific efforts of various proponents of process typology.
+Page 8
+In the externalist/normative quadrant group are studies that develop applied approaches to the processes dealing with the making of urban fabrics.
+The externalist/cognitive quadrant regroups the scientific contributions concerned with the forms and transformations of the urban built environment, but which rely predominantly on explanatory frameworks based on external conditions of development.
+The studies categorized as internalist/ normative could be otherwise qualified as urban design normative contributions, as they aim at devising an urban form that has yet to be built. Many contributions from process typologists could be cited in this category (e.g. Cervallati et al., 1981; Davoli and Zaffagnini, 1993; Maretto, 2005; Spigai, 1980).
+Reading the proposed mapping allows one also to visualize the dual nature of the intellectual contribution of process typology; the enterprise has produced works of an explanatory or cognitive nature as well as normative treatises. The mapping stresses implicitly that its dual nature distinguishes process typology from more purely normative planning and design theoretical perspectives (e.g. New Urbanism), which are confined to the internalist/normative quadrant.
 
-3. … we propose a system to identify and interpret, or ‘map’, individual contributions to the study of urban form according to their respective theoretical or epistemological perspectives. In an effort to ‘improve intelligibility’ in urban morphology, we offer a two-tiered examination of prevailing approaches in the field.
-4. ![[Pasted image 20220816115715.png]]
-
-4. First, there are studies that are aimed at providing explanations or developing explanatory frameworks or both (i.e. **[[cognitive]]** contributions);
-
-5. We use the expression cognitive to reflect the heuristic nature of an intellectual enterprise concerned with producing knowledge or at developing theoretical means, methods and techniques destined to produce such knowledge
-
-6. … and secondly, there are studies aimed at determining the modalities according to which the city should be planned or built in the future (i.e. **[[normative]]** contributions).
-
-7. … the term normative denotes accurately an intellectual exercise, which aims at articulating a view of what the future should look like, or at exposing a doctrine or specific sets of norms and prescriptions that would serve such a view.
-
-8. We posit that differentiating between cognitive and normative studies is a critical step for clarifying the multi-faceted nature of the intellectual agenda of urban morphology.
-
-9. The field of urban morphology lies at the intersection of several academic disciplines such as architecture, urban planning, geography and history.
-
-10. Urban planning is a case in point, and one in which the problem of the heuristic programmes and procedures is raised quite acutely. As a practice, urban planning is clearly oriented towards action, whereas as a scholarly subject matter, it assumes a more complex and ambiguous character. The discipline of urban planning seems to possess a mixed identity: science, applied science and prescriptive practice (Levy and Spigai, 1989).
-
-11. To distinguish between **[[cognitive]]** and **[[normative]]** approaches does much to clarify the nature of the intellectual contribution of the school of process typology, as exemplified by the ideas of Italian architect Saverio Muratori.
-
-12. each contribution is sorted according to the epistemic status conferred to urban form: by distinguishing between contributions that consider urban form as a relatively independent system, and contributions in which urban form stands as a dependent variable, or passive product of various external determinants.
-
-13. To comprehend the urban fabric in terms of ‘urban form’, understood as a system of its own that is governed by internal sets of relations, necessitates two prerequisites: first, that the elements in the system are not discrete objects; and secondly, that the relations between elements are not contingent. In other words, there exists an ‘internal’ logic to this system.
-
-14. We propose to call these approaches that are primarily concerned with understanding the **[[internal]]** logic of the urban fabric internalist approaches to urban morphology.
-
-15. Alternatively, we label as **[[externalist]]** those approaches that primarily see the urban form as the end product of processes driven by political (e.g. Çelik, 1997), anthropological (e.g. Rapoport, 1977, 1982; Rykwert, 1988), geographical and economic (e.g. Vance, 1977, 1990), historical (e.g. Benevolo, 1980), and perceptual (e.g. Lynch and Rodwin, 1958; Lynch, 1960) determinants.
-
-16. Perhaps the most important contribution of urban morphology to the study of cities has been to show how the built environment can be understood as a system of relations submitted to rules of transformation.
-
-17. At a practical level, the grid allows for a synthetic representation of some commonalities and distinctions observable in the theoretical and epistemological perspectives favoured in various contributions. Such mapping is beneficial as it provides an immediate basis for comparison when faced with the corpus of contributions emanating from a variety of disciplinary traditions and linguistic environments.
-
-18. A closer look at the grid reveals that the **internalist/cognitive** quadrant includes various **scientific studies** concerned with **the city as an artifact and spatial form**, and which conceptualize its built environment as a system.
-
-19. The **externalist/cognitive** quadrant regroups the scientific contributions concerned with the forms and **transformations** of the urban built environment, but **which rely predominantly on explanatory frameworks based on external conditions** of development.
-
-20. The studies categorized as **internalist/normative** could be otherwise qualified as **urban design normative contributions,** as they aim at devising an urban form that has **yet to be built**.
-
-21. In the **externalist/normative** quadrant group are studies that develop **applied approaches** to the processes dealing with the **making of urban fabrics**.

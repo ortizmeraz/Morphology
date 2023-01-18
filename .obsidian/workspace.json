@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Classic Morphology/A-Moudon (1997).md",
-                "mode": "preview",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Moudon (1997).md",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Moudon (1997).md"
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md"
               }
             }
           },
@@ -149,15 +149,15 @@
   },
   "active": "9e584b044c55a1e7",
   "lastOpenFiles": [
+    "Material/Classic Morphology/A-Conzen (1960).md",
+    "Material/Classic Morphology/A-Malfroy (1997).md",
+    "Material/Classic Morphology/A-Moudon (1997).md",
     "Material/Classic Morphology/B-Vaughan(2015).md",
     "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
     "Material/Planning/b-Portugali  (2016).md",
     "Material/Classic Morphology/A-Neuman (2005).md",
-    "Material/Classic Morphology/A-Malfroy (1997).md",
     "Material/Classic Morphology/A-Kropf(2009).md",
     "Material/Classic Morphology/A-Kristjánsdóttir 2019.md",
-    "Material/Classic Morphology/A-Moudon (1997).md",
-    "Material/Classic Morphology/A-Remali, et. al. (2015).md",
-    "Material/Classic Morphology/A-Whitehand (2014).md"
+    "Material/Classic Morphology/A-Remali, et. al. (2015).md"
   ]
 }
