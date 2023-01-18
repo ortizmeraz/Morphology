@@ -26,7 +26,7 @@
 - [ ] [[Monirn]]
 - [ ] 
 ### Read soon
-- [ ] [[A-Vaughan(2015)]]
+- [ ] [[B-Vaughan(2015)]]
 - [ ] [[A-Fleischmann (2019)]]
 - [ ] [[b-Portugali  (2016)]]
 - Thinking in systems
