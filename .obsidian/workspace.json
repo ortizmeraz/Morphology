@@ -11,9 +11,11 @@
             "id": "9e584b044c55a1e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_attachments/Pasted image 20220905112106.png"
+                "file": "Material/Traveling around the city/A- Marshall (2008).md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_attachments/Pasted image 20220905112106.png",
+                "file": "Material/Traveling around the city/A- Marshall (2008).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_attachments/Pasted image 20220905112106.png"
+                "file": "Material/Traveling around the city/A- Marshall (2008).md"
               }
             }
           },
@@ -147,15 +149,15 @@
   },
   "active": "9e584b044c55a1e7",
   "lastOpenFiles": [
+    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
+    "Material/Classic Morphology/A-Griffiths (2015).md",
+    "_attachments/Pasted image 20220905112106.png",
     "_attachments/Pasted image 20220816115715.png",
     "_attachments/Pasted image 20220629123623.png",
     "_attachments/Pasted image 20211203122158.png",
     "_attachments/Pasted image 20211203122147.png",
     "_attachments/Pasted image 20211203122058.png",
-    "_attachments/Pasted image 20211203122039.png",
-    "_attachments/Pasted image 20211124181707.png",
-    "_attachments/LandUse-UrbanForm-Transportation.png",
-    "_attachments/2021-11-29 125031 1.png",
-    "_attachments/2021-11-29 124738 1.png"
+    "_attachments/Pasted image 20211203122039.png"
   ]
 }
