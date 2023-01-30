@@ -11,11 +11,9 @@
             "id": "9e584b044c55a1e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
-                "mode": "source",
-                "source": true
+                "file": "_attachments/Pasted image 20220905112106.png"
               }
             }
           }
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
+                "file": "_attachments/Pasted image 20220905112106.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md"
+                "file": "_attachments/Pasted image 20220905112106.png"
               }
             }
           },
@@ -149,15 +147,15 @@
   },
   "active": "9e584b044c55a1e7",
   "lastOpenFiles": [
-    "Material/Classic Morphology/A-Conzen (1960).md",
-    "Material/Classic Morphology/A-Malfroy (1997).md",
-    "Material/Classic Morphology/A-Moudon (1997).md",
-    "Material/Classic Morphology/B-Vaughan(2015).md",
-    "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
-    "Material/Planning/b-Portugali  (2016).md",
-    "Material/Classic Morphology/A-Neuman (2005).md",
-    "Material/Classic Morphology/A-Kropf(2009).md",
-    "Material/Classic Morphology/A-Kristjánsdóttir 2019.md",
-    "Material/Classic Morphology/A-Remali, et. al. (2015).md"
+    "_attachments/Pasted image 20220816115715.png",
+    "_attachments/Pasted image 20220629123623.png",
+    "_attachments/Pasted image 20211203122158.png",
+    "_attachments/Pasted image 20211203122147.png",
+    "_attachments/Pasted image 20211203122058.png",
+    "_attachments/Pasted image 20211203122039.png",
+    "_attachments/Pasted image 20211124181707.png",
+    "_attachments/LandUse-UrbanForm-Transportation.png",
+    "_attachments/2021-11-29 125031 1.png",
+    "_attachments/2021-11-29 124738 1.png"
   ]
 }
