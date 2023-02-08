@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7cd1005fa0ef8a8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material/Node Place/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
+                "file": "Material/Node Place/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md"
+                "file": "Material/Node Place/Untitled.md"
               }
             }
           },
@@ -147,8 +160,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9e584b044c55a1e7",
+  "active": "7cd1005fa0ef8a8c",
   "lastOpenFiles": [
+    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
     "Material/Transit and Land-use/B-Litman(2008).md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
@@ -157,7 +171,6 @@
     "Material/Transit and Land-use/A-Handy (2002).md",
     "Material/Transit and Land-use/A-Vuchic, (2017)..md",
     "Material/Traveling around the city/A-Newman (2016).md",
-    "Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md",
-    "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md"
+    "Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md"
   ]
 }
