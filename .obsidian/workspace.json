@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Planning/b-Portugali  (2016).md",
+                "file": "Material/Transit and Land-use/B-Walker (2012).md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "amenity",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -89,7 +89,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Planning/b-Portugali  (2016).md",
+                "file": "Material/Transit and Land-use/B-Walker (2012).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Planning/b-Portugali  (2016).md"
+                "file": "Material/Transit and Land-use/B-Walker (2012).md"
               }
             }
           },
@@ -162,6 +163,9 @@
   },
   "active": "7cd1005fa0ef8a8c",
   "lastOpenFiles": [
+    "Material/Traveling around the city/B-Marshall (2004).md",
+    "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
+    "Material/Planning/b-Portugali  (2016).md",
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Node Place/Planning for public transport accessibility.md",
     "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
