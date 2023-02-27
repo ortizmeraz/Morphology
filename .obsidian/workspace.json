@@ -10,6 +10,15 @@
           {
             "id": "9e584b044c55a1e7",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
@@ -22,11 +31,20 @@
           {
             "id": "7cd1005fa0ef8a8c",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Material/Transit and Land-use/B-Walker (2012).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
