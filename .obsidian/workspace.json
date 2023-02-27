@@ -4,11 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "fbee02a6909f9a33",
+        "id": "2a351384862fab19",
         "type": "tabs",
         "children": [
           {
-            "id": "9e584b044c55a1e7",
+            "id": "f0fd1832100bc977",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "-Concepts/transit.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "66dc7c73e0e674ab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,41 +66,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
-                "mode": "preview",
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "7cd1005fa0ef8a8c",
+            "id": "97e7435d11d4e1e5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "A-Moniruzzaman (2012)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":109},\"to\":{\"line\":11,\"ch\":109}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "B-Walker (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":8.264462809917354}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
-                "mode": "preview",
+                "file": "-Concepts/transit.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
+                "file": "-Concepts/transit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md"
+                "file": "-Concepts/transit.md"
               }
             }
           },
@@ -193,20 +236,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7cd1005fa0ef8a8c",
+  "active": "f0fd1832100bc977",
   "lastOpenFiles": [
+    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+    "-Concepts/transit.md",
+    "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md",
+    "Material/Transit and Land-use/A-Kramer (2018).md",
+    "Material/Transit and Land-use/A-Handy (2002).md",
+    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
-    "Material/Traveling around the city/B-Marshall (2004).md",
+    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
     "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
+    "Material/Traveling around the city/B-Marshall (2004).md",
     "Material/Planning/b-Portugali  (2016).md",
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Node Place/Planning for public transport accessibility.md",
-    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
     "Material/Transit and Land-use/B-Litman(2008).md",
-    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
     "Material/Transit and Land-use/A-Allen & Farber (2020).md",
-    "Material/Transit and Land-use/A-Handy (2002).md",
     "Material/Transit and Land-use/A-Vuchic, (2017)..md"
   ]
 }

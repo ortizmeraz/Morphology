@@ -10,7 +10,7 @@ status:			Need to extract
 
 ---
 
-# Tittle 
+# Transport and mobility justice: Evolving discussions 
 ```ad-quote
 Verlinghieri, E., & Schwanen, T. (2020). Transport and mobility justice: Evolving discussions. Journal of Transport Geography, 87, 102798. https://doi.org/https://doi.org/10.1016/j.jtrangeo.2020.102798
 ```

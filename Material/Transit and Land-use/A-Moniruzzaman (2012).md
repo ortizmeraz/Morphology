@@ -9,7 +9,7 @@ fullref: 		"Moniruzzaman, M., & Páez, A. (2012). Accessibility to transit, by t
 status:			Need to extract
 ---
 
-# Tittle 
+# Accessibility to transit, by transit, and mode share: Application of a logistic model with spatial filters. 
 ```ad-quote
 Moniruzzaman, M., & Páez, A. (2012). Accessibility to transit, by transit, and mode share: Application of a logistic model with spatial filters. _Journal of Transport Geography_, _24_, 198–205. [https://doi.org/10.1016/j.jtrangeo.2012.02.006](https://doi.org/10.1016/j.jtrangeo.2012.02.006)
 ```

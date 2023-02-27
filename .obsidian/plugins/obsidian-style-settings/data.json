@@ -1,11 +1,11 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-macchiato",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
-  "anuppuccin-theme-settings@@h1-line-height": 1.2,
+  "anuppuccin-theme-settings@@h1-line-height": 1.5,
   "anuppuccin-theme-settings@@h1-weight": 700,
   "anuppuccin-theme-settings@@h2-size": 1.8,
   "anuppuccin-theme-settings@@h3-size": 1.6,
   "anuppuccin-theme-settings@@h4-size": 1.4,
-  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-red",
-  "anuppuccin-theme-settings@@anp-h1-divider": true
+  "anuppuccin-theme-settings@@anp-h1-divider": false,
+  "anuppuccin-theme-settings@@anp-header-margin-value": 30
 }
