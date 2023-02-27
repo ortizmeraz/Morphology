@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "-Concepts/transit.md",
+                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -76,14 +76,61 @@
             "id": "97e7435d11d4e1e5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "A-Moniruzzaman (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":109},\"to\":{\"line\":11,\"ch\":109}},\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
+                {
+                  "title": "accessibility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/accessibility.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "B-Litman(2008)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.666666666666667}"
+                },
+                {
+                  "title": "mobility",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/mobility.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "transit",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/transit.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "357865cfb1aed6d2"
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c2d98026a3e75eeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546ce12085cf1a70",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -91,13 +138,37 @@
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "-Concepts/transit.md",
-                "mode": "source",
-                "source": true
+                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": false
+                }
               }
-            }
+            },
+            "group": "357865cfb1aed6d2"
           }
         ]
       }
@@ -185,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-Concepts/transit.md",
+                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-Concepts/transit.md"
+                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md"
               }
             }
           },
@@ -236,10 +307,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0fd1832100bc977",
+  "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
-    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+    "-Concepts/accessibility.md",
+    "Material/Transit and Land-use/B-Litman(2008).md",
+    "-Concepts/mobility.md",
     "-Concepts/transit.md",
+    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md",
     "Material/Transit and Land-use/A-Kramer (2018).md",
     "Material/Transit and Land-use/A-Handy (2002).md",
@@ -253,7 +327,6 @@
     "Material/Planning/b-Portugali  (2016).md",
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Node Place/Planning for public transport accessibility.md",
-    "Material/Transit and Land-use/B-Litman(2008).md",
     "Material/Transit and Land-use/A-Filion & Kramer (2012).md",
     "Material/Transit and Land-use/A-Allen & Farber (2020).md",
     "Material/Transit and Land-use/A-Vuchic, (2017)..md"
