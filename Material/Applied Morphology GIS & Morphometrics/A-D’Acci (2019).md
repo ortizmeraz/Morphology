@@ -10,7 +10,7 @@ status:			Need to extract
 
 ---
 
-# Tittle 
+# On urban morphology and mathematics 
 ```ad-quote
 D’Acci, L. (2019). On urban morphology and mathematics. In The Mathematics of Urban Morphology (pp. 1–18). Springer.
 ```
