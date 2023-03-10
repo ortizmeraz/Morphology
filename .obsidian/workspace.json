@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "file": "Table test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -83,6 +83,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "README",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "land use question",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Research",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A-Capasso Da Silva (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "accessibility",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/accessibility.md\",\"mode\":\"source\",\"source\":true}}",
@@ -111,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "file": "Table test.md",
                 "mode": "source",
                 "source": true
               }
@@ -140,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "file": "Table test.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +280,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+                "file": "Table test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +297,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md"
+                "file": "Table test.md"
               }
             }
           },
@@ -309,6 +333,10 @@
   },
   "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
+    "README.md",
+    "land use question.md",
+    "Research.md",
+    "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
     "-Concepts/accessibility.md",
     "Material/Transit and Land-use/B-Litman(2008).md",
     "-Concepts/mobility.md",
