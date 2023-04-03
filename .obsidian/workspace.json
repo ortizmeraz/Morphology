@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "land use question.md",
+                "file": "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,6 +81,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "A-Hafezi, Liu, and Millward (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":4},\"to\":{\"line\":19,\"ch\":4}},\"scroll\":8.434782608695652}"
+                },
+                {
+                  "title": "A-Lotfi & Koohsari (2009)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":261},\"to\":{\"line\":74,\"ch\":261}},\"scroll\":71.48105436573312}"
+                },
+                {
+                  "title": "A-Berghauser Pont (2019) , Spatial Distribution",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":100},\"to\":{\"line\":78,\"ch\":100}},\"scroll\":72.96410487228536}"
+                },
+                {
+                  "title": "A-Whitehand (2012)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":20},\"to\":{\"line\":1,\"ch\":20}}}"
+                },
+                {
+                  "title": "land use question",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Table of Articles",
@@ -171,7 +201,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "land use question.md",
+                "file": "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
                 "mode": "source",
                 "source": true
               }
@@ -200,7 +230,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "land use question.md",
+                "file": "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,10 +295,19 @@
           {
             "id": "d57a7946b623cca5",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "search",
               "state": {
-                "query": "amenity",
+                "query": "fuzzy",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -296,7 +335,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -316,7 +356,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "land use question.md",
+                "file": "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +373,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "land use question.md"
+                "file": "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md"
               }
             }
           },
@@ -369,12 +409,16 @@
   },
   "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
+    "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md",
+    "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
+    "land use question.md",
     "Symbols.md",
     "Table of Articles.md",
     "Research.md",
     "Table test.md",
     "README.md",
-    "land use question.md",
     "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
     "-Concepts/accessibility.md",
     "Material/Transit and Land-use/B-Litman(2008).md",
@@ -390,10 +434,6 @@
     "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
     "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
     "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
-    "Material/Traveling around the city/B-Marshall (2004).md",
-    "Material/Planning/b-Portugali  (2016).md",
-    "Material/Node Place/A-Bertolini  (1996).md",
-    "Material/Node Place/Planning for public transport accessibility.md",
-    "Material/Transit and Land-use/A-Filion & Kramer (2012).md"
+    "Material/Traveling around the city/B-Marshall (2004).md"
   ]
 }
