@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Table of Articles.md",
+                "file": "land use question.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,6 +81,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Table of Articles",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table of Articles.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Symbols",
@@ -165,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Table of Articles.md",
+                "file": "land use question.md",
                 "mode": "source",
                 "source": true
               }
@@ -194,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Table of Articles.md",
+                "file": "land use question.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -310,7 +316,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Table of Articles.md",
+                "file": "land use question.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +333,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Articles.md"
+                "file": "land use question.md"
               }
             }
           },
