@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,6 +81,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "A-Haraldsson(2008)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "A-Mulíček, Osman, & Seidenglanz (2014).",
@@ -225,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
                 "mode": "source",
                 "source": true
               }
@@ -254,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -331,7 +337,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fuzzy",
+                "query": "sch",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -359,7 +365,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -379,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
+                "file": "Material/Classic Morphology/A-Scheer(2015).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -396,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md"
+                "file": "Material/Classic Morphology/A-Scheer(2015).md"
               }
             }
           },
@@ -432,6 +439,7 @@
   },
   "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
+    "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
     "Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md",
     "Material/Systems Thinking and Object Ortiented Analysis/A- Kutty, Abdella, Kucukvar, Onat & Bulu (2020).md",
     "Material/Systems Thinking and Object Ortiented Analysis/B-Shoval (2006).md",
@@ -456,7 +464,6 @@
     "Material/Transit and Land-use/A-Handy (2002).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
-    "Material/Transit and Land-use/B-Walker (2012).md",
-    "Material/Transit and Land-use/B-Levinson & Krizek (2018).md"
+    "Material/Transit and Land-use/B-Walker (2012).md"
   ]
 }
