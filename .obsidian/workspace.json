@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,6 +81,36 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "A-Feng & Gauthier,  (2021)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":60},\"to\":{\"line\":84,\"ch\":60}},\"scroll\":76.88486265341905}"
+                },
+                {
+                  "title": "A-Dibble (2017)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":129},\"to\":{\"line\":52,\"ch\":129}},\"scroll\":47.61411842686699}"
+                },
+                {
+                  "title": "A-Conzen (1960)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Conzen (1960).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":413},\"to\":{\"line\":43,\"ch\":413}},\"scroll\":37.50574458683164}"
+                },
+                {
+                  "title": "A-Berghauser Pont (2019) , Development",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}},\"scroll\":75.07568673290473}"
+                },
+                {
+                  "title": "A-Scheer(2015)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Scheer(2015).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":4},\"to\":{\"line\":20,\"ch\":4}},\"scroll\":11.282608695652174}"
                 },
                 {
                   "title": "A-Haraldsson(2008)",
@@ -231,7 +261,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
                 "mode": "source",
                 "source": true
               }
@@ -260,7 +290,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -337,7 +367,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sch",
+                "query": "fabric",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -386,7 +416,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +433,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md"
+                "file": "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md"
               }
             }
           },
@@ -439,6 +469,11 @@
   },
   "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
+    "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
+    "Material/Classic Morphology/A-Conzen (1960).md",
+    "Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md",
+    "Material/Classic Morphology/A-Scheer(2015).md",
     "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
     "Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md",
     "Material/Systems Thinking and Object Ortiented Analysis/A- Kutty, Abdella, Kucukvar, Onat & Bulu (2020).md",
@@ -459,11 +494,6 @@
     "-Concepts/mobility.md",
     "-Concepts/transit.md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
-    "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md",
-    "Material/Transit and Land-use/A-Kramer (2018).md",
-    "Material/Transit and Land-use/A-Handy (2002).md",
-    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
-    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
-    "Material/Transit and Land-use/B-Walker (2012).md"
+    "Material/Traveling around the city/A-Verlinghieri & Schwanen (2020).md"
   ]
 }
