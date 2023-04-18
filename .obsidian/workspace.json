@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a351384862fab19",
+        "id": "22dd67e4b8815565",
         "type": "tabs",
         "children": [
           {
-            "id": "f0fd1832100bc977",
+            "id": "4cb8e00f4f766e1f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,49 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
-            "id": "66dc7c73e0e674ab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                },
                 {
-                  "state": "{}",
+                  "title": "A-Whitehand (2014)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":61.0417406749556}"
+                },
+                {
+                  "title": "B Hiller (2007)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{}}",
                   "eState": "{}"
                 }
               ]
@@ -66,313 +40,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+                "file": "Material/Classic Morphology/A-Kropf(2009).md",
                 "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "97e7435d11d4e1e5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Moniruzzaman (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.11547690461908}"
-                },
-                {
-                  "title": "A-Kramer (2018)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Kramer (2018).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":67.84026905829596}"
-                },
-                {
-                  "title": "urban tissue",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/urban tissue.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":64},\"to\":{\"line\":14,\"ch\":143}},\"scroll\":7.458605072463768}"
-                },
-                {
-                  "title": "land use question",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":122},\"to\":{\"line\":9,\"ch\":122}},\"scroll\":2.449275362318841}"
-                },
-                {
-                  "title": "B-Caniggia & Maffei (2017).",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B-Caniggia & Maffei (2017)..md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":90},\"to\":{\"line\":54,\"ch\":90}},\"scroll\":50.082755535674345}"
-                },
-                {
-                  "title": "A-Lars & Koch (2016)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Lars & Koch (2016).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":473},\"to\":{\"line\":29,\"ch\":473}},\"scroll\":18.564662273476113}"
-                },
-                {
-                  "title": "A-Kropf(2009)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":196,\"ch\":21},\"to\":{\"line\":196,\"ch\":21}},\"scroll\":178.88985507246377}"
-                },
-                {
-                  "title": "A-Kristjánsdóttir 2019",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":72,\"ch\":255},\"to\":{\"line\":72,\"ch\":255}},\"scroll\":64.65403624382208}"
-                },
-                {
-                  "title": "A-Gauthier and Gilliland (2006)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Gauthier and Gilliland (2006).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":28},\"to\":{\"line\":60,\"ch\":28}},\"scroll\":54.88113124171454}"
-                },
-                {
-                  "title": "A-Feng & Gauthier,  (2021)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Feng & Gauthier,  (2021).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":60},\"to\":{\"line\":84,\"ch\":60}},\"scroll\":76.88486265341905}"
-                },
-                {
-                  "title": "A-Dibble (2017)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":129},\"to\":{\"line\":52,\"ch\":129}},\"scroll\":47.61411842686699}"
-                },
-                {
-                  "title": "A-Conzen (1960)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Conzen (1960).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":413},\"to\":{\"line\":43,\"ch\":413}},\"scroll\":37.50574458683164}"
-                },
-                {
-                  "title": "A-Berghauser Pont (2019) , Development",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":25},\"to\":{\"line\":1,\"ch\":25}},\"scroll\":75.07568673290473}"
-                },
-                {
-                  "title": "A-Scheer(2015)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Scheer(2015).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":4},\"to\":{\"line\":20,\"ch\":4}},\"scroll\":11.282608695652174}"
-                },
-                {
-                  "title": "A-Haraldsson(2008)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Mulíček, Osman, & Seidenglanz (2014).",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A- Kutty, Abdella, Kucukvar, Onat & Bulu (2020)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/A- Kutty, Abdella, Kucukvar, Onat & Bulu (2020).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "B-Shoval (2006)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Systems Thinking and Object Ortiented Analysis/B-Shoval (2006).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Berghauser Pont (2019) , Spatial Distribution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Hafezi, Liu, and Millward (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":4},\"to\":{\"line\":19,\"ch\":4}},\"scroll\":8.434782608695652}"
-                },
-                {
-                  "title": "A-Lotfi & Koohsari (2009)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":74,\"ch\":261},\"to\":{\"line\":74,\"ch\":261}},\"scroll\":71.48105436573312}"
-                },
-                {
-                  "title": "A-Berghauser Pont (2019) , Spatial Distribution",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":78,\"ch\":100},\"to\":{\"line\":78,\"ch\":100}},\"scroll\":72.96410487228536}"
-                },
-                {
-                  "title": "A-Whitehand (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":20},\"to\":{\"line\":1,\"ch\":20}}}"
-                },
-                {
-                  "title": "land use question",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Table of Articles",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table of Articles.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Symbols",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Table of Articles",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table of Articles.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Symbols",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Symbols.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Research",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Table test",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Table test.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":7}}}"
-                },
-                {
-                  "title": "README",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "land use question",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"land use question.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Research",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Research.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Capasso Da Silva (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "accessibility",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/accessibility.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "B-Litman(2008)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Litman(2008).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.666666666666667}"
-                },
-                {
-                  "title": "mobility",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/mobility.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "transit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/transit.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "357865cfb1aed6d2"
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c2d98026a3e75eeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "546ce12085cf1a70",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.7132754626224428,
-                  "close": false
-                }
-              }
-            },
-            "group": "357865cfb1aed6d2"
           }
         ]
       }
@@ -469,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
+                "file": "Material/Classic Morphology/A-Kropf(2009).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -486,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md"
+                "file": "Material/Classic Morphology/A-Kropf(2009).md"
               }
             }
           },
@@ -520,8 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97e7435d11d4e1e5",
+  "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Classic Morphology/A-Whitehand (2014).md",
+    "Material/Classic Morphology/B Hiller (2007).md",
+    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+    "Material/Transit and Land-use/A-Vuchic, (2017)..md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "Material/Transit and Land-use/A-Kramer (2018).md",
     "-Concepts/urban tissue.md",
@@ -543,10 +219,6 @@
     "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
     "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md",
     "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md",
-    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
-    "Symbols.md",
-    "Table of Articles.md",
-    "Research.md",
-    "Table test.md"
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md"
   ]
 }
