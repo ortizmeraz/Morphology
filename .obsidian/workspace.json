@@ -22,7 +22,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -81,6 +81,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "A-Moniruzzaman (2012)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/A-Moniruzzaman (2012).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":45.11547690461908}"
                 },
                 {
                   "title": "A-Kramer (2018)",
@@ -309,7 +315,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
                 "mode": "source",
                 "source": true
               }
@@ -338,7 +344,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -463,7 +469,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -480,7 +486,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit and Land-use/A-Moniruzzaman (2012).md"
+                "file": "Material/Transit and Land-use/A-Vuchic, (2017)..md"
               }
             }
           },
@@ -516,6 +522,7 @@
   },
   "active": "97e7435d11d4e1e5",
   "lastOpenFiles": [
+    "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "Material/Transit and Land-use/A-Kramer (2018).md",
     "-Concepts/urban tissue.md",
     "land use question.md",
@@ -540,7 +547,6 @@
     "Symbols.md",
     "Table of Articles.md",
     "Research.md",
-    "Table test.md",
-    "README.md"
+    "Table test.md"
   ]
 }
