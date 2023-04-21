@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-Kropf(2009)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":431},\"to\":{\"line\":88,\"ch\":1}},\"scroll\":113.47010869565217}"
+                },
+                {
                   "title": "A-Whitehand (2014)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"source\",\"source\":true}}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Classic Morphology/A-Kropf(2009).md",
+                "file": "Material/Classic Morphology/B Hiller (2007).md",
                 "mode": "source",
                 "source": true
               }
@@ -141,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Kropf(2009).md",
+                "file": "Material/Classic Morphology/B Hiller (2007).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Kropf(2009).md"
+                "file": "Material/Classic Morphology/B Hiller (2007).md"
               }
             }
           },
@@ -194,6 +200,7 @@
   },
   "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Classic Morphology/A-Kropf(2009).md",
     "Material/Classic Morphology/A-Whitehand (2014).md",
     "Material/Classic Morphology/B Hiller (2007).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
@@ -204,7 +211,6 @@
     "land use question.md",
     "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md",
     "Material/Alternative Smart Cities/A-Lars & Koch (2016).md",
-    "Material/Classic Morphology/A-Kropf(2009).md",
     "Material/Classic Morphology/A-Kristjánsdóttir 2019.md",
     "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
     "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
