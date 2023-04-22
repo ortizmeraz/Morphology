@@ -18,6 +18,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-McAslan(2017)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-McAslan(2017).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":509},\"to\":{\"line\":54,\"ch\":509}},\"scroll\":54.139789514073506}"
+                },
+                {
+                  "title": "A-Moreno (2020)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Moreno (2020).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":7},\"to\":{\"line\":17,\"ch\":7}},\"scroll\":12.944444444444445}"
+                },
+                {
+                  "title": "15-minute city",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/15-minute city.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "A-D’Acci (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":70},\"to\":{\"line\":61,\"ch\":521}},\"scroll\":47.62609865470852}"
+                },
+                {
+                  "title": "A-Dibble (2017)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "A-D’Acci (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.15800027658692}"
+                },
+                {
+                  "title": "A-Scheer(2015)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Scheer(2015).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":70.6166113804542}"
+                },
+                {
                   "title": "A-Malfroy (1997)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Malfroy (1997).md\",\"mode\":\"source\",\"source\":true}}",
@@ -100,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
                 "mode": "source",
                 "source": true
               }
@@ -153,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tissue ",
+                "query": "minute",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -181,7 +223,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -201,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md",
+                "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/A-Scheer(2015).md"
+                "file": "Material/Transit and Land-use/B-Levinson & Krizek (2018).md"
               }
             }
           },
@@ -254,6 +297,12 @@
   },
   "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Classic Morphology/A-McAslan(2017).md",
+    "Material/Alternative Smart Cities/A-Moreno (2020).md",
+    "-Concepts/15-minute city.md",
+    "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
+    "Material/Classic Morphology/A-Scheer(2015).md",
     "Material/Classic Morphology/A-Malfroy (1997).md",
     "Material/Classic Morphology/A-Legeby(2015).md",
     "Material/Classic Morphology/A-Kropf(2009).md",
@@ -273,12 +322,6 @@
     "Material/Alternative Smart Cities/A-Lars & Koch (2016).md",
     "Material/Classic Morphology/A-Gauthier and Gilliland (2006).md",
     "Material/Classic Morphology/A-Feng & Gauthier,  (2021).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
-    "Material/Classic Morphology/A-Conzen (1960).md",
-    "Material/Classic Morphology/A-Berghauser Pont (2019) , Development.md",
-    "Material/Classic Morphology/A-Scheer(2015).md",
-    "Material/Systems Thinking and Object Ortiented Analysis/A-Haraldsson(2008).md",
-    "Material/Systems Thinking and Object Ortiented Analysis/A-Mulíček, Osman, & Seidenglanz (2014)..md",
-    "Material/Systems Thinking and Object Ortiented Analysis/A- Kutty, Abdella, Kucukvar, Onat & Bulu (2020).md"
+    "Material/Classic Morphology/A-Conzen (1960).md"
   ]
 }
