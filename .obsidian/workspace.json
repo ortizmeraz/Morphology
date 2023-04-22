@@ -21,6 +21,24 @@
                   "title": "A-Kropf(2009)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.4338768115942}"
+                },
+                {
+                  "title": "A-Ye and Van Nes (2014)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Ye and Van Nes (2014).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":85},\"to\":{\"line\":1,\"ch\":102}}}"
+                },
+                {
+                  "title": "B Hiller (2007)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "A-Kropf(2009)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":431},\"to\":{\"line\":88,\"ch\":1}},\"scroll\":113.47010869565217}"
                 },
                 {
@@ -46,7 +64,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Classic Morphology/B Hiller (2007).md",
+                "file": "Material/Classic Morphology/A- Araldi & Fusco (2019b).md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Classic Morphology/B Hiller (2007).md",
+                "file": "Material/Classic Morphology/A- Araldi & Fusco (2019b).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Classic Morphology/B Hiller (2007).md"
+                "file": "Material/Classic Morphology/A- Araldi & Fusco (2019b).md"
               }
             }
           },
@@ -201,8 +219,9 @@
   "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
     "Material/Classic Morphology/A-Kropf(2009).md",
-    "Material/Classic Morphology/A-Whitehand (2014).md",
+    "Material/Applied Morphology GIS & Morphometrics/A-Ye and Van Nes (2014).md",
     "Material/Classic Morphology/B Hiller (2007).md",
+    "Material/Classic Morphology/A-Whitehand (2014).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit and Land-use/A-Vuchic, (2017)..md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
@@ -224,7 +243,6 @@
     "Material/Systems Thinking and Object Ortiented Analysis/B-Shoval (2006).md",
     "Material/Classic Morphology/A-Berghauser Pont (2019) , Spatial Distribution.md",
     "Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md",
-    "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md",
-    "Material/Alternative Smart Cities/A-Whitehand (2012).md"
+    "Material/Applied Morphology GIS & Morphometrics/A-Lotfi & Koohsari (2009).md"
   ]
 }
