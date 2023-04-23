@@ -223,8 +223,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -295,7 +294,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cb8e00f4f766e1f",
+  "active": "8dba4aed2461f615",
   "lastOpenFiles": [
     "Material/Classic Morphology/A-McAslan(2017).md",
     "Material/Alternative Smart Cities/A-Moreno (2020).md",
