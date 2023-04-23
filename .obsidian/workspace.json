@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-Chorus & Bertolini (2011)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Chorus & Bertolini (2011).md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":5},\"to\":{\"line\":49,\"ch\":33}},\"scroll\":38.34476021314387}"
+                },
+                {
                   "title": "A-Bertolini (1999).",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"source\",\"source\":true}}",
@@ -160,8 +166,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Node Place/A-Chorus & Bertolini (2011).md",
-                "mode": "source",
+                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -245,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8d284f3db761463d",
@@ -261,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Node Place/A-Chorus & Bertolini (2011).md",
+                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Node Place/A-Chorus & Bertolini (2011).md"
+                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md"
               }
             }
           },
@@ -314,6 +321,7 @@
   },
   "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Node Place/A-Chorus & Bertolini (2011).md",
     "Material/Node Place/A-Bertolini (1999)..md",
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
@@ -338,7 +346,6 @@
     "Material/Transit and Land-use/A-Kramer (2018).md",
     "-Concepts/urban tissue.md",
     "land use question.md",
-    "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md",
-    "Material/Alternative Smart Cities/A-Lars & Koch (2016).md"
+    "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md"
   ]
 }
