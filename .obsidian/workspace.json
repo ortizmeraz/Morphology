@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-Whitehand (2012)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "A-Monajem &Ekram Nosratian (2015)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Monajem &Ekram Nosratian (2015).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "A-Chorus & Bertolini (2011)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Chorus & Bertolini (2011).md\",\"mode\":\"source\",\"source\":true}}",
@@ -166,7 +178,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md",
+                "file": "Material/Classic Morphology/B Hiller (2007).md",
                 "mode": "preview",
                 "source": true
               }
@@ -219,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minute",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -267,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md",
+                "file": "Material/Classic Morphology/B Hiller (2007).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md"
+                "file": "Material/Classic Morphology/B Hiller (2007).md"
               }
             }
           },
@@ -320,6 +332,8 @@
   },
   "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Alternative Smart Cities/A-Whitehand (2012).md",
+    "Material/Node Place/A-Monajem &Ekram Nosratian (2015).md",
     "Material/Node Place/A-Chorus & Bertolini (2011).md",
     "Material/Node Place/A-Bertolini (1999)..md",
     "Material/Node Place/A-Bertolini  (1996).md",
@@ -343,8 +357,6 @@
     "Material/Transit and Land-use/A-Vuchic, (2017)..md",
     "Material/Transit and Land-use/A-Moniruzzaman (2012).md",
     "Material/Transit and Land-use/A-Kramer (2018).md",
-    "-Concepts/urban tissue.md",
-    "land use question.md",
-    "Material/Classic Morphology/B-Caniggia & Maffei (2017)..md"
+    "-Concepts/urban tissue.md"
   ]
 }
