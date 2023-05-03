@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-Berawi, et. al. (2020)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Berawi, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":31.801232665639446}"
+                },
+                {
+                  "title": "B-Cerver et.al. (2017)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Cerver et.al. (2017).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "B-Walker (2012)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"preview\",\"source\":true}}",
@@ -256,7 +268,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
                 "mode": "preview",
                 "source": true
               }
@@ -336,9 +348,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ee2fd9c1a5f09732",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -358,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -375,7 +394,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit and Land-use/B-Cerver et.al. (2017).md"
+                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md"
               }
             }
           },
@@ -409,12 +428,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d57a7946b623cca5",
+  "active": "4cb8e00f4f766e1f",
   "lastOpenFiles": [
+    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
+    "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
-    "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
     "Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md",
     "Material/Traveling around the city/A-Garikapati et al, (2016).md",
     "Material/Traveling around the city/A-Stopher, Ahmed, and Liu (2017).md",
@@ -435,7 +455,6 @@
     "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
     "Material/Classic Morphology/A-Scheer(2015).md",
     "Material/Classic Morphology/A-Malfroy (1997).md",
-    "Material/Classic Morphology/A-Legeby(2015).md",
-    "Material/Classic Morphology/A-Kropf(2009).md"
+    "Material/Classic Morphology/A-Legeby(2015).md"
   ]
 }
