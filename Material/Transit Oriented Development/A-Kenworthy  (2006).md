@@ -1,8 +1,8 @@
 ---
-Title: 			The eco-city: ten key transport and planning dimensions for sustainable city development
+Title: 			'The eco-city: ten key transport and planning dimensions for sustainable city development'
 Author:			Kenworthy
 Year:			2006
-Added in:		2022-01-06
+Added in:		2022-01-06 
 tag:			Article_
 fullref: 		"Kenworthy, J. R. (2006). The eco-city: ten key transport and planning dimensions for sustainable city development. Environment and Urbanization, 18(1), 67–85. https://doi.org/10.1177/0956247806063947"
 status:			#Extracted

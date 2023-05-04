@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "22dd67e4b8815565",
+        "id": "7cd7b9b4eb36a2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "4cb8e00f4f766e1f",
+            "id": "fe87e387076c113c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,34 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "A-Berawi, et. al. (2020)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Berawi, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":31.801232665639446}"
-                },
-                {
-                  "title": "B-Cerver et.al. (2017)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Cerver et.al. (2017).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "B-Walker (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Walker (2012).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":250.63841807909606}"
-                },
-                {
                   "title": "A-Ibraeva, et. al. (2020)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":50.87966417910448}"
-                },
-                {
-                  "title": "A-Kenworthy  (2006)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Kenworthy  (2006).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":84.97029393370858}"
+                  "eState": "{}"
                 },
                 {
                   "title": "A-Berawi, et. al. (2020)",
@@ -54,213 +30,27 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "A-Ibraeva, et. al. (2020)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":33.588005850804485}"
-                },
-                {
                   "title": "A-Kenworthy  (2006)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Kenworthy  (2006).md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "A-Deboosere & El-Geneidy (2018)",
+                  "title": "A-Ibraeva, et. al. (2020)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "A-Garikapati et al, (2016)",
+                  "title": "A-Berawi, et. al. (2020)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Garikapati et al, (2016).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Berawi, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "A-Stopher, Ahmed, and Liu (2017)",
+                  "title": "A-Kenworthy  (2006)",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Stopher, Ahmed, and Liu (2017).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Mokhtarian & Chen (2004)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Mokhtarian & Chen (2004).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Hafezi, Liu, and Millward (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Hafezi, Liu, and Millward (2019).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Newman (2016)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Traveling around the city/A-Newman (2016).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":49.7570365577483}"
-                },
-                {
-                  "title": "B Hiller (2007)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Whitehand (2012)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Whitehand (2012).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "A-Monajem &Ekram Nosratian (2015)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Monajem &Ekram Nosratian (2015).md\",\"mode\":\"preview\",\"source\":true}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "A-Chorus & Bertolini (2011)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Chorus & Bertolini (2011).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":5},\"to\":{\"line\":49,\"ch\":33}},\"scroll\":38.34476021314387}"
-                },
-                {
-                  "title": "A-Bertolini (1999).",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini (1999)..md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Bertolini  (1996)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Node Place/A-Bertolini  (1996).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "B-Levinson & Krizek (2018)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit and Land-use/B-Levinson & Krizek (2018).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-McAslan(2017)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-McAslan(2017).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":54,\"ch\":509},\"to\":{\"line\":54,\"ch\":509}},\"scroll\":54.139789514073506}"
-                },
-                {
-                  "title": "A-Moreno (2020)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Moreno (2020).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":7},\"to\":{\"line\":17,\"ch\":7}},\"scroll\":12.944444444444445}"
-                },
-                {
-                  "title": "15-minute city",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/15-minute city.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "A-D’Acci (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":70},\"to\":{\"line\":61,\"ch\":521}},\"scroll\":47.62609865470852}"
-                },
-                {
-                  "title": "A-Dibble (2017)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "A-D’Acci (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":43.15800027658692}"
-                },
-                {
-                  "title": "A-Scheer(2015)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Scheer(2015).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":70.6166113804542}"
-                },
-                {
-                  "title": "A-Malfroy (1997)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Malfroy (1997).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":36.106749555950266}"
-                },
-                {
-                  "title": "A-Legeby(2015)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Legeby(2015).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Kropf(2009)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Kristjánsdóttir 2019",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kristjánsdóttir 2019.md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Araldi & Fusco (2019)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Araldi & Fusco (2019).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A- Araldi & Fusco (2019b)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A- Araldi & Fusco (2019b).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "A-Kropf(2009)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":41.4338768115942}"
-                },
-                {
-                  "title": "A-Ye and Van Nes (2014)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Applied Morphology GIS & Morphometrics/A-Ye and Van Nes (2014).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":85},\"to\":{\"line\":1,\"ch\":102}}}"
-                },
-                {
-                  "title": "B Hiller (2007)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "A-Kropf(2009)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Kropf(2009).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":88,\"ch\":431},\"to\":{\"line\":88,\"ch\":1}},\"scroll\":113.47010869565217}"
-                },
-                {
-                  "title": "A-Whitehand (2014)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/A-Whitehand (2014).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":61.0417406749556}"
-                },
-                {
-                  "title": "B Hiller (2007)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Classic Morphology/B Hiller (2007).md\",\"mode\":\"source\",\"source\":true}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Graph view",
-                  "icon": "lucide-git-fork",
-                  "state": "{\"type\":\"graph\",\"state\":{}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Kenworthy  (2006).md\",\"mode\":\"preview\",\"source\":true}}",
                   "eState": "{}"
                 }
               ]
@@ -268,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
                 "mode": "preview",
                 "source": true
               }
@@ -377,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
+                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -394,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md"
+                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md"
               }
             }
           },
@@ -428,13 +218,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cb8e00f4f766e1f",
+  "active": "fe87e387076c113c",
   "lastOpenFiles": [
+    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
+    "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
     "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
-    "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
-    "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
     "Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md",
     "Material/Traveling around the city/A-Garikapati et al, (2016).md",
     "Material/Traveling around the city/A-Stopher, Ahmed, and Liu (2017).md",
