@@ -18,6 +18,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "A-Capasso Da Silva (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "A-Moreno (2020)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Moreno (2020).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":38.277372262773724}"
+                },
+                {
+                  "title": "A-Capasso Da Silva (2019)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":5.959044368600682}"
+                },
+                {
+                  "title": "15-minute city",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"-Concepts/15-minute city.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "A-Kenworthy  (2006)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Kenworthy  (2006).md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "A-Ibraeva, et. al. (2020)",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md\",\"mode\":\"preview\",\"source\":true}}",
@@ -58,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
+                "file": "Material/Alternative Smart Cities/A-Moreno (2020).md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "By investigating a specific case which promises results of general significance, and by adopting an evolutionary viewpoint, it seeks to establish some basic concepts applicable to recurrent phenomena in urban morphology and to lead to an explanation of the arrangement and diversity of an urban area in terms of plan types and result in geographical division",
+                "query": "15-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -168,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
+                "file": "Material/Alternative Smart Cities/A-Moreno (2020).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/Transit Oriented Development/A-Kenworthy  (2006).md"
+                "file": "Material/Alternative Smart Cities/A-Moreno (2020).md"
               }
             }
           },
@@ -219,11 +249,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d57a7946b623cca5",
+  "active": "fe87e387076c113c",
   "lastOpenFiles": [
+    "Material/Alternative Smart Cities/A-Capasso Da Silva (2019).md",
+    "Material/Alternative Smart Cities/A-Moreno (2020).md",
+    "-Concepts/15-minute city.md",
+    "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
-    "Material/Transit Oriented Development/A-Kenworthy  (2006).md",
     "Material/Transit and Land-use/B-Cerver et.al. (2017).md",
     "Material/Transit and Land-use/B-Walker (2012).md",
     "Material/Traveling around the city/A-Deboosere & El-Geneidy (2018).md",
@@ -240,12 +273,9 @@
     "Material/Node Place/A-Bertolini  (1996).md",
     "Material/Transit and Land-use/B-Levinson & Krizek (2018).md",
     "Material/Classic Morphology/A-McAslan(2017).md",
-    "Material/Alternative Smart Cities/A-Moreno (2020).md",
-    "-Concepts/15-minute city.md",
     "Material/Applied Morphology GIS & Morphometrics/A-D’Acci (2019).md",
     "Material/Applied Morphology GIS & Morphometrics/A-Dibble (2017).md",
     "Material/Classic Morphology/A-Scheer(2015).md",
-    "Material/Classic Morphology/A-Malfroy (1997).md",
-    "Material/Classic Morphology/A-Legeby(2015).md"
+    "Material/Classic Morphology/A-Malfroy (1997).md"
   ]
 }
