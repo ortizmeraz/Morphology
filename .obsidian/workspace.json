@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Calthorpe specifically defined TOD as a “mixed-use community within average 2000-foot [AN: 600 m] walking distance of a transit stop and core commercial area. TODs mix residential, retail, office, open space, and public uses in a walkable environment, making it convenient for residents and employees to travel by transit, bicycle, foot, or car”.",
+                "query": "By investigating a specific case which promises results of general significance, and by adopting an evolutionary viewpoint, it seeks to establish some basic concepts applicable to recurrent phenomena in urban morphology and to lead to an explanation of the arrangement and diversity of an urban area in terms of plan types and result in geographical division",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -147,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,7 +219,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe87e387076c113c",
+  "active": "d57a7946b623cca5",
   "lastOpenFiles": [
     "Material/Transit Oriented Development/A-Ibraeva, et. al. (2020).md",
     "Material/Transit Oriented Development/A-Berawi, et. al. (2020).md",
